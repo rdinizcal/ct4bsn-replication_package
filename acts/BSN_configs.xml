@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<System name="BSN">
+  <Parameters>
+    <Parameter id="14" name="SPO2_data" type="0">
+      <values>
+        <value>1</value>
+        <value>2</value>
+        <value>3</value>
+      </values>
+      <basechoices />
+      <invalidValues>
+        <invalidValue>4</invalidValue>
+        <invalidValue>5</invalidValue>
+      </invalidValues>
+    </Parameter>
+    <Parameter id="15" name="SPO2_activity" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="16" name="HR_data" type="0">
+      <values>
+        <value>1</value>
+        <value>2</value>
+        <value>3</value>
+      </values>
+      <basechoices />
+      <invalidValues>
+        <invalidValue>4</invalidValue>
+        <invalidValue>5</invalidValue>
+      </invalidValues>
+    </Parameter>
+    <Parameter id="17" name="HR_activity" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="18" name="Temp_data" type="0">
+      <values>
+        <value>1</value>
+        <value>2</value>
+        <value>3</value>
+      </values>
+      <basechoices />
+      <invalidValues>
+        <invalidValue>4</invalidValue>
+        <invalidValue>5</invalidValue>
+      </invalidValues>
+    </Parameter>
+    <Parameter id="19" name="Temp_activity" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="20" name="SystBP_data" type="0">
+      <values>
+        <value>1</value>
+        <value>2</value>
+        <value>3</value>
+      </values>
+      <basechoices />
+      <invalidValues>
+        <invalidValue>4</invalidValue>
+        <invalidValue>5</invalidValue>
+      </invalidValues>
+    </Parameter>
+    <Parameter id="21" name="SystBP_activity" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="22" name="DiasBP_daata" type="0">
+      <values>
+        <value>1</value>
+        <value>2</value>
+        <value>3</value>
+      </values>
+      <basechoices />
+      <invalidValues>
+        <invalidValue>4</invalidValue>
+        <invalidValue>5</invalidValue>
+      </invalidValues>
+    </Parameter>
+    <Parameter id="23" name="DiasBP_activity" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="24" name="GLUC_data" type="0">
+      <values>
+        <value>1</value>
+        <value>2</value>
+        <value>3</value>
+      </values>
+      <basechoices />
+      <invalidValues>
+        <invalidValue>4</invalidValue>
+        <invalidValue>5</invalidValue>
+      </invalidValues>
+    </Parameter>
+    <Parameter id="25" name="GLUC_activity" type="2">
+      <values>
+        <value>true</value>
+        <value>false</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="26" name="Age" type="0">
+      <values>
+        <value>1</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="27" name="BMI" type="0">
+      <values>
+        <value>1</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+        <value>5</value>
+        <value>6</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="28" name="Gender" type="0">
+      <values>
+        <value>1</value>
+        <value>2</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="29" name="Time_Day" type="0">
+      <values>
+        <value>1</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+  </Parameters>
+  <OutputParameters />
+  <Relations />
+  <Constraints>
+    <Constraint text="SPO2_activity =&gt; SPO2_data&gt;0">
+      <Parameters>
+        <Parameter name="SPO2_activity" />
+        <Parameter name="SPO2_data" />
+      </Parameters>
+    </Constraint>
+    <Constraint text="HR_activity =&gt; HR_data&gt;0">
+      <Parameters>
+        <Parameter name="HR_activity" />
+        <Parameter name="HR_data" />
+      </Parameters>
+    </Constraint>
+    <Constraint text="Temp_activity =&gt; Temp_data&gt;0">
+      <Parameters>
+        <Parameter name="Temp_activity" />
+        <Parameter name="Temp_data" />
+      </Parameters>
+    </Constraint>
+    <Constraint text="SystBP_activity =&gt; SystBP_data&gt;0">
+      <Parameters>
+        <Parameter name="SystBP_activity" />
+        <Parameter name="SystBP_data" />
+      </Parameters>
+    </Constraint>
+    <Constraint text="DiasBP_activity =&gt; DiasBP_daata&gt;0">
+      <Parameters>
+        <Parameter name="DiasBP_activity" />
+        <Parameter name="DiasBP_daata" />
+      </Parameters>
+    </Constraint>
+    <Constraint text="GLUC_activity =&gt; GLUC_data&gt;0">
+      <Parameters>
+        <Parameter name="GLUC_activity" />
+        <Parameter name="GLUC_data" />
+      </Parameters>
+    </Constraint>
+    <Constraint text="DiasBP_activity &amp;&amp; SystBP_activity">
+      <Parameters>
+        <Parameter name="DiasBP_activity" />
+        <Parameter name="SystBP_activity" />
+      </Parameters>
+    </Constraint>
+  </Constraints>
+</System>
+
