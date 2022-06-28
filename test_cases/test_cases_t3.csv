@@ -5,483 +5,483 @@
 # Maximum number of values per parameter: 6,,,,,,,,,,,,,,,,,
 # Number of configurations: 480,,,,,,,,,,,,,,,,,
 Test Case No.,SPO2_data,SPO2_activity,HR_data,HR_activity,Temp_data,Temp_activity,SystBP_data,SystBP_activity,DiasBP_daata,DiasBP_activity,GLUC_data,GLUC_activity,Age,BMI,Gender,Time_Day,Oracle
-1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Low Risk
-2,2,0,2,0,2,0,2,1,2,1,2,0,1,1,2,2,No Risk
-3,3,1,3,0,3,1,3,1,3,1,3,0,1,1,1,3,Critical
-4,1,0,2,1,3,0,1,1,2,1,3,1,1,1,2,4,Low Risk
-5,2,0,3,1,1,0,2,1,3,1,1,0,2,1,1,1,Risky
-6,3,1,1,1,2,0,3,1,1,1,2,1,2,1,2,2,Moderate
-7,1,1,2,0,1,1,3,1,2,1,1,1,2,1,2,3,Moderate
-8,2,1,1,0,3,1,2,1,1,1,3,0,2,1,2,4,Low Risk
-9,3,0,2,0,2,1,1,1,3,1,2,1,3,1,1,1,Low Risk
-10,1,1,3,1,1,0,1,1,2,1,2,0,3,1,1,2,Moderate
-11,2,0,1,1,2,1,3,1,3,1,1,0,3,1,2,3,Risky
-12,3,0,3,0,1,0,2,1,1,1,3,1,3,1,1,4,Moderate
-13,1,1,2,1,3,1,2,1,1,1,2,0,4,1,2,1,Low Risk
-14,2,0,1,0,1,0,1,1,3,1,3,1,4,1,1,2,Critical
-15,3,1,3,1,2,0,1,1,2,1,1,1,4,1,2,3,Moderate
-16,1,0,1,0,2,1,3,1,2,1,3,0,4,1,1,4,Low Risk
-17,2,0,2,0,3,0,3,1,1,1,1,1,1,2,1,1,Moderate
-18,3,1,3,1,1,1,2,1,3,1,2,1,1,2,2,2,Moderate
-19,1,0,1,1,2,0,2,1,1,1,3,0,1,2,1,3,Low Risk
-20,2,1,3,0,2,1,1,1,3,1,1,0,1,2,2,4,Low Risk
-21,3,0,1,0,3,1,1,1,2,1,2,0,2,2,1,1,Moderate
-22,1,1,2,1,3,0,3,1,3,1,3,0,2,2,1,2,Risky
-23,2,1,3,1,3,0,2,1,2,1,2,1,2,2,1,3,Low Risk
-24,3,0,2,1,1,1,3,1,1,1,2,0,2,2,2,4,Moderate
-25,1,1,3,0,2,1,3,1,1,1,3,1,3,2,2,1,Moderate
-26,2,0,1,1,3,0,1,1,1,1,1,1,3,2,2,2,Low Risk
-27,3,0,2,0,1,1,2,1,2,1,1,0,3,2,1,3,No Risk
-28,1,1,1,0,1,0,2,1,3,1,2,1,3,2,2,4,Low Risk
-29,2,1,3,1,1,1,3,1,2,1,3,0,4,2,2,1,Moderate
-30,3,0,2,0,2,1,1,1,1,1,3,0,4,2,1,2,Low Risk
-31,1,0,1,0,3,0,1,1,3,1,1,1,4,2,2,3,Risky
-32,2,1,2,1,1,0,2,1,3,1,1,1,4,2,1,4,Low Risk
-33,3,0,3,1,2,0,2,1,2,1,1,1,1,3,2,1,Low Risk
-34,1,1,1,0,3,1,3,1,2,1,2,0,1,3,1,2,Risky
-35,2,1,2,1,1,1,1,1,1,1,2,1,1,3,2,3,No Risk
-36,3,0,1,0,1,0,1,1,3,1,3,0,1,3,1,4,Risky
-37,1,1,2,1,2,0,1,1,3,1,3,1,2,3,2,1,Moderate
-38,2,0,3,0,2,1,3,1,1,1,1,0,2,3,1,2,Moderate
-39,3,1,1,1,3,0,2,1,1,1,1,0,2,3,2,3,Moderate
-40,1,0,3,1,3,1,1,1,1,1,1,1,2,3,1,4,Risky
-41,2,1,1,0,2,0,2,1,2,1,3,1,3,3,1,1,Low Risk
-42,3,1,2,1,3,1,3,1,3,1,1,1,3,3,2,2,Critical
-43,1,0,3,0,1,0,3,1,3,1,2,0,3,3,1,3,Critical
-44,2,1,2,0,2,0,3,1,2,1,2,0,3,3,2,4,Low Risk
-45,3,0,1,0,1,0,3,1,1,1,2,1,4,3,1,1,Moderate
-46,1,0,3,1,3,1,2,1,2,1,3,1,4,3,2,2,Risky
-47,2,1,2,0,2,1,2,1,3,1,2,0,4,3,1,3,Low Risk
-48,3,1,3,0,3,1,3,1,3,1,2,1,4,3,1,4,Critical
-49,1,0,3,1,3,1,1,1,3,1,3,0,1,4,2,1,Critical
-50,2,1,1,1,1,0,3,1,2,1,1,1,1,4,1,2,Low Risk
-51,3,1,2,0,2,0,2,1,1,1,3,0,1,4,2,3,Moderate
-52,1,0,1,1,2,1,2,1,2,1,2,1,1,4,2,4,No Risk
-53,2,0,2,0,1,1,1,1,1,1,2,1,2,4,1,1,Low Risk
-54,3,0,3,0,3,0,2,1,2,1,1,0,2,4,1,2,No Risk
-55,1,1,1,0,1,1,1,1,3,1,3,1,2,4,1,3,Risky
-56,2,1,3,0,2,0,3,1,3,1,2,0,2,4,2,4,Risky
-57,3,1,1,1,3,1,3,1,1,1,2,0,3,4,1,1,Critical
-58,1,0,2,0,2,0,1,1,1,1,1,0,3,4,2,2,Low Risk
-59,2,0,3,1,3,1,2,1,3,1,3,1,3,4,2,3,Critical
-60,3,1,2,1,1,1,1,1,2,1,3,0,3,4,2,4,Low Risk
-61,1,1,1,1,2,1,1,1,2,1,1,0,4,4,2,1,Low Risk
-62,2,0,2,0,3,0,3,1,3,1,3,1,4,4,1,2,Critical
-63,3,1,3,1,1,1,2,1,1,1,2,1,4,4,2,3,Moderate
-64,2,0,3,0,3,0,1,1,1,1,1,0,4,4,2,4,Moderate
-65,1,1,1,1,1,1,2,1,3,1,1,0,1,5,1,1,Moderate
-66,2,0,2,0,2,0,3,1,1,1,3,1,1,5,2,2,Critical
-67,3,1,3,0,3,0,1,1,2,1,1,0,1,5,2,3,Moderate
-68,1,0,2,1,3,1,2,1,1,1,2,1,1,5,1,4,Low Risk
-69,2,0,3,1,1,1,3,1,2,1,2,0,2,5,2,1,Risky
-70,3,1,1,1,2,0,2,1,3,1,3,1,2,5,1,2,Critical
-71,1,0,2,1,2,1,1,1,2,1,3,0,2,5,1,3,No Risk
-72,2,1,1,0,3,0,3,1,3,1,1,1,2,5,2,4,Risky
-73,3,1,2,0,1,1,1,1,1,1,1,1,3,5,1,1,Moderate
-74,1,0,3,0,3,0,2,1,2,1,3,0,3,5,2,2,No Risk
-75,2,1,1,1,1,0,1,1,2,1,2,1,3,5,1,3,No Risk
-76,3,0,3,0,2,0,3,1,2,1,1,0,3,5,1,4,Risky
-77,1,0,1,1,1,0,2,1,1,1,3,0,4,5,2,1,Low Risk
-78,2,1,2,0,1,1,1,1,3,1,2,1,4,5,1,2,Moderate
-79,3,1,3,0,2,1,3,1,1,1,1,1,4,5,2,3,Risky
-80,3,0,2,1,3,0,1,1,2,1,2,1,4,5,2,4,No Risk
-81,1,1,1,1,2,1,2,1,3,1,2,0,1,6,2,1,Moderate
-82,2,0,2,0,1,0,1,1,1,1,3,1,1,6,1,2,Risky
-83,3,1,3,0,3,1,3,1,2,1,1,1,1,6,2,3,Critical
-84,1,0,2,1,3,0,3,1,3,1,3,0,1,6,1,4,Critical
-85,2,0,3,1,2,0,3,1,1,1,1,0,2,6,2,1,Critical
-86,3,0,1,1,1,0,2,1,2,1,2,1,2,6,1,2,No Risk
-87,1,1,2,0,2,1,2,1,1,1,3,0,2,6,1,3,Low Risk
-88,2,1,1,0,3,1,1,1,2,1,2,0,2,6,2,4,Moderate
-89,3,1,2,0,1,1,1,1,3,1,1,1,3,6,2,1,Risky
-90,1,0,3,1,2,1,1,1,2,1,3,0,3,6,2,2,Moderate
-91,2,0,1,1,1,0,3,1,1,1,2,0,3,6,1,3,Risky
-92,3,0,3,0,2,0,2,1,1,1,1,1,3,6,1,4,Low Risk
-93,1,1,1,1,3,0,2,1,3,1,3,1,4,6,1,1,Risky
-94,2,1,2,0,1,1,3,1,2,1,1,0,4,6,2,2,Moderate
-95,3,0,3,1,2,1,1,1,3,1,2,0,4,6,1,3,Risky
-96,1,1,3,0,1,1,2,1,1,1,1,1,4,6,1,4,Low Risk
-97,2,0,2,1,3,0,1,1,2,1,3,1,3,3,1,3,Low Risk
-98,1,1,1,1,3,0,3,1,2,1,3,0,3,2,1,4,Moderate
-99,2,0,1,0,1,0,1,1,2,1,2,1,2,3,2,2,No Risk
-100,2,0,3,0,1,0,2,1,1,1,3,1,1,5,2,4,Moderate
-101,1,0,3,0,2,1,3,1,3,1,2,0,3,5,1,1,Critical
-102,1,1,2,1,3,1,1,1,2,1,1,0,4,3,2,1,Low Risk
-103,1,1,3,1,3,1,1,1,1,1,3,0,2,5,2,1,Risky
-104,3,0,1,1,3,1,2,1,1,1,1,1,3,1,2,2,Moderate
-105,2,1,1,0,3,1,2,1,3,1,1,1,3,6,1,2,Risky
-106,3,0,3,1,2,0,2,1,3,1,2,1,2,2,2,1,Moderate
-107,3,1,1,0,1,0,1,1,2,1,2,0,1,2,1,2,Moderate
-108,2,0,1,0,1,0,2,1,1,1,3,1,3,3,2,4,Moderate
-109,1,0,1,1,2,0,3,1,2,1,1,0,2,4,1,3,Moderate
-110,3,1,1,0,1,0,2,1,3,1,3,1,2,4,1,1,Critical
-111,1,0,2,1,1,0,2,1,1,1,2,0,4,1,1,3,No Risk
-112,1,1,1,0,3,0,2,1,3,1,3,0,4,5,1,3,Moderate
-113,1,1,3,1,3,0,3,1,2,1,3,1,1,1,1,1,Risky
-114,2,1,3,1,2,1,3,1,2,1,1,0,2,2,1,3,Moderate
-115,1,0,2,0,2,0,1,1,3,1,2,0,2,1,1,4,Risky
-116,3,0,2,1,3,0,1,1,1,1,2,0,1,6,2,1,Low Risk
-117,3,0,1,0,1,1,1,1,2,1,3,1,2,6,2,1,Moderate
-118,2,1,3,1,2,1,1,1,3,1,1,0,2,6,2,2,Moderate
-119,1,1,1,1,2,1,1,1,3,1,1,1,3,4,1,4,Moderate
-120,1,0,3,0,1,0,3,1,2,1,3,1,3,3,1,4,Risky
-121,1,1,2,1,1,0,3,1,2,1,1,0,3,3,1,2,Low Risk
-122,2,0,2,1,2,1,1,1,1,1,1,1,1,5,1,2,Low Risk
-123,3,1,1,1,3,0,1,1,1,1,1,0,4,1,2,4,Moderate
-124,1,0,2,0,3,1,3,1,2,1,2,0,3,4,2,2,Risky
-125,1,0,2,1,2,0,2,1,2,1,2,1,4,2,2,4,No Risk
-126,1,1,1,1,4,1,1,1,1,1,1,1,1,1,1,1,Critical
-127,1,0,1,0,5,0,2,1,2,1,2,0,2,2,2,2,No Risk
-128,1,0,2,0,4,0,3,1,3,1,3,0,3,3,2,3,Critical
-129,1,1,2,1,5,1,1,1,1,1,1,1,4,4,1,4,Critical
-130,1,1,3,0,4,1,2,1,2,1,2,0,2,5,1,2,Critical
-131,1,0,3,1,5,0,3,1,3,1,3,1,1,6,2,1,Critical
-132,1,1,4,1,1,1,1,1,1,1,1,1,3,1,1,3,Critical
-133,1,0,4,0,2,0,2,1,2,1,2,0,4,2,2,4,No Risk
-134,1,1,4,0,3,1,3,1,3,1,3,0,1,3,1,1,Critical
-135,1,0,5,1,1,0,1,1,1,1,1,1,2,4,2,2,Critical
-136,1,1,5,0,2,1,2,1,2,1,2,0,3,5,1,3,No Risk
-137,1,0,5,0,3,0,3,1,3,1,3,0,4,6,2,4,Critical
-138,2,0,1,1,4,0,2,1,3,1,1,1,4,2,2,4,Moderate
-139,2,1,1,0,5,1,1,1,3,1,2,0,3,1,1,3,Critical
-140,2,0,2,1,4,1,1,1,2,1,3,1,1,4,2,2,Critical
-141,2,1,2,0,5,0,3,1,2,1,1,1,2,3,1,1,Low Risk
-142,2,0,3,1,4,0,3,1,1,1,2,1,3,6,1,1,Risky
-143,2,1,3,0,5,1,2,1,1,1,3,0,4,5,2,2,Critical
-144,2,0,4,1,1,0,2,1,3,1,1,1,2,4,2,2,Critical
-145,2,0,4,1,2,1,1,1,1,1,3,0,1,5,2,4,Critical
-146,2,1,4,1,3,0,3,1,2,1,2,1,2,1,1,3,Critical
-147,2,1,5,1,1,1,2,1,3,1,1,1,1,2,1,1,Critical
-148,2,1,5,1,2,1,1,1,1,1,3,0,3,3,2,4,Critical
-149,2,0,5,1,3,0,3,1,2,1,2,1,2,1,1,1,Critical
-150,3,1,1,0,4,1,3,1,2,1,1,0,2,6,2,3,Critical
-151,3,0,1,1,5,0,3,1,1,1,2,0,4,3,2,3,Risky
-152,3,1,2,0,4,1,2,1,1,1,3,0,4,2,1,1,Critical
-153,3,0,2,1,5,1,2,1,3,1,1,1,1,5,1,2,Critical
-154,3,1,3,0,4,0,1,1,3,1,2,0,1,4,1,4,Critical
-155,3,0,3,1,5,0,1,1,2,1,3,1,2,1,2,4,Moderate
-156,3,1,4,0,1,1,3,1,1,1,2,1,4,6,1,2,Risky
-157,3,0,4,0,2,0,1,1,3,1,1,0,3,2,2,1,Risky
-158,3,1,4,0,3,1,2,1,1,1,3,0,3,4,2,3,Risky
-159,3,0,5,0,1,1,3,1,2,1,1,1,4,3,1,3,Moderate
-160,3,1,5,0,2,0,1,1,3,1,2,0,1,6,1,2,Critical
-161,3,0,5,1,3,0,2,1,1,1,3,1,1,5,2,4,Critical
-162,4,1,1,1,1,1,1,1,2,1,1,1,3,1,1,1,Critical
-163,4,0,1,0,2,0,2,1,3,1,2,0,2,2,2,2,Moderate
-164,4,1,1,0,3,1,3,1,1,1,3,0,4,3,1,3,Critical
-165,4,0,2,1,1,0,2,1,1,1,1,1,1,4,2,4,No Risk
-166,4,0,2,1,2,1,1,1,2,1,3,1,2,5,2,3,Low Risk
-167,4,0,2,1,3,0,3,1,3,1,2,0,3,6,1,1,Critical
-168,4,1,3,0,1,1,3,1,2,1,2,1,4,2,2,4,Critical
-169,4,1,3,0,2,0,1,1,1,1,1,0,1,6,1,2,Critical
-170,4,0,3,0,3,0,2,1,2,1,3,0,1,1,2,1,No Risk
-171,5,1,1,1,1,1,1,1,3,1,1,1,3,3,1,2,Critical
-172,5,0,1,0,2,0,2,1,2,1,2,0,2,4,2,3,No Risk
-173,5,1,1,0,3,1,3,1,1,1,3,0,4,5,1,4,Critical
-174,5,0,2,1,1,0,2,1,1,1,1,1,1,1,2,1,No Risk
-175,5,0,2,1,2,1,1,1,3,1,3,1,2,2,2,4,Moderate
-176,5,1,2,1,3,0,3,1,2,1,2,0,3,3,1,1,Critical
-177,5,0,3,0,1,1,3,1,3,1,2,1,4,6,1,3,Risky
-178,5,1,3,0,2,0,1,1,1,1,1,0,3,4,2,2,Critical
-179,5,1,3,0,3,1,2,1,3,1,3,0,1,1,1,2,Critical
-180,3,1,4,1,3,1,1,1,2,1,1,1,4,5,1,2,Critical
-181,1,1,5,0,3,0,1,1,2,1,3,0,2,2,2,3,Low Risk
-182,2,0,4,1,2,0,3,1,1,1,1,1,3,3,1,4,Critical
-183,3,0,5,0,2,0,3,1,1,1,2,1,4,2,2,1,Moderate
-184,1,1,1,1,1,1,4,1,3,1,2,1,2,4,1,3,Critical
-185,2,0,2,0,1,0,4,1,2,1,3,0,3,5,2,4,Critical
-186,3,1,3,0,1,1,4,1,1,1,1,0,1,6,1,1,Critical
-187,1,0,1,1,2,0,4,1,2,1,1,1,4,1,2,2,Critical
-188,2,0,2,1,2,1,4,1,3,1,2,1,1,3,2,1,Critical
-189,3,1,3,1,2,0,4,1,3,1,3,0,2,2,1,4,Critical
-190,1,1,1,0,3,0,4,1,1,1,3,1,3,3,2,3,Critical
-191,2,0,2,0,3,1,4,1,1,1,1,0,2,4,1,2,Critical
-192,3,1,3,1,3,1,4,1,2,1,2,1,4,5,1,3,Critical
-193,1,0,1,1,1,1,5,1,3,1,2,0,3,6,2,4,Critical
-194,2,1,2,0,1,0,5,1,2,1,3,1,1,1,1,1,Critical
-195,3,0,3,0,1,1,5,1,1,1,1,1,2,4,2,2,Critical
-196,1,1,1,1,2,0,5,1,2,1,1,0,4,5,1,3,Critical
-197,2,1,2,1,2,1,5,1,3,1,2,0,2,2,1,2,Critical
-198,3,0,3,1,2,0,5,1,3,1,3,1,3,3,2,1,Critical
-199,1,0,1,0,3,0,5,1,1,1,3,0,1,2,1,4,Critical
-200,2,1,2,0,3,1,5,1,1,1,1,1,3,6,2,3,Critical
-201,3,0,3,1,3,1,5,1,2,1,2,0,4,1,2,4,Critical
-202,4,1,3,1,3,1,1,1,3,1,1,1,2,4,1,3,Critical
-203,5,0,3,1,3,1,1,1,2,1,1,1,2,5,2,1,Risky
-204,4,1,2,1,2,0,3,1,1,1,1,1,4,1,2,2,Critical
-205,5,1,1,1,2,0,3,1,1,1,1,0,1,6,2,4,Critical
-206,2,0,1,1,2,0,4,1,1,1,2,0,3,6,1,4,Critical
-207,3,0,1,0,3,0,4,1,3,1,1,1,1,5,2,2,Critical
-208,1,1,2,0,1,1,4,1,1,1,1,0,4,2,2,1,Critical
-209,3,1,2,0,1,1,4,1,1,1,2,0,3,1,1,2,Critical
-210,1,0,3,1,1,1,4,1,2,1,1,1,1,3,1,4,Critical
-211,2,1,3,0,3,0,4,1,3,1,3,1,4,1,2,1,Critical
-212,2,0,1,1,2,0,5,1,1,1,2,1,1,4,1,1,Critical
-213,3,1,1,0,3,1,5,1,3,1,1,0,1,3,1,3,Critical
-214,1,0,2,0,3,0,5,1,2,1,3,1,2,4,2,2,Critical
-215,3,0,2,0,1,1,5,1,1,1,2,1,4,5,2,3,Critical
-216,1,1,3,0,2,1,5,1,2,1,3,0,4,6,1,1,Critical
-217,2,0,3,1,3,0,5,1,3,1,3,0,1,5,2,3,Critical
-218,1,0,1,1,1,0,1,1,4,1,3,0,3,2,1,4,Critical
-219,2,1,2,0,2,1,1,1,4,1,2,1,2,3,2,2,Critical
-220,3,0,3,0,3,0,1,1,4,1,1,1,4,4,1,3,Critical
-221,1,1,1,0,1,1,2,1,4,1,2,0,1,6,2,1,Critical
-222,2,0,2,1,2,1,2,1,4,1,3,0,4,1,1,4,Critical
-223,3,1,3,1,3,0,2,1,4,1,3,0,3,3,2,2,Critical
-224,1,1,1,1,1,1,3,1,4,1,1,1,2,5,1,3,Critical
-225,2,0,2,0,2,0,3,1,4,1,1,1,1,2,2,1,Critical
-226,3,0,3,0,3,0,3,1,4,1,2,0,2,1,2,4,Critical
-227,1,1,1,1,1,0,1,1,5,1,3,1,3,4,1,2,Critical
-228,2,0,2,0,2,1,1,1,5,1,2,0,2,6,2,3,Critical
-229,3,1,3,0,3,0,1,1,5,1,1,0,4,2,1,4,Critical
-230,1,0,1,0,1,1,2,1,5,1,2,1,1,3,2,1,Critical
-231,2,1,2,1,2,1,2,1,5,1,3,1,4,5,1,2,Critical
-232,3,0,3,1,3,0,2,1,5,1,3,1,3,6,2,3,Critical
-233,1,0,1,1,1,1,3,1,5,1,1,0,2,1,1,4,Critical
-234,2,1,2,1,2,0,3,1,5,1,1,0,1,4,2,1,Critical
-235,3,1,3,0,3,0,3,1,5,1,2,1,2,5,2,2,Critical
-236,2,1,4,1,1,0,3,1,2,1,3,1,1,2,1,1,Critical
-237,2,1,2,0,1,1,2,1,4,1,1,0,3,4,2,3,Critical
-238,3,0,3,1,1,1,3,1,4,1,3,1,4,6,1,2,Critical
-239,1,0,1,1,2,1,3,1,4,1,2,1,3,4,1,2,Critical
-240,3,0,3,1,2,0,1,1,4,1,2,0,1,5,1,1,Critical
-241,1,0,1,1,3,1,3,1,4,1,1,1,4,3,2,1,Critical
-242,2,1,2,1,3,0,1,1,4,1,1,1,3,6,2,4,Critical
-243,2,0,2,0,1,1,2,1,5,1,1,1,3,2,2,4,Critical
-244,3,1,3,0,1,1,3,1,5,1,3,0,4,3,1,3,Critical
-245,1,0,1,1,2,0,3,1,5,1,2,0,3,2,1,3,Critical
-246,3,1,3,0,2,0,1,1,5,1,2,1,1,1,1,1,Critical
-247,1,0,1,0,3,1,1,1,5,1,1,0,4,5,2,1,Critical
-248,2,1,2,0,3,0,2,1,5,1,3,0,2,1,2,1,Critical
-249,5,0,2,1,1,0,3,1,2,1,3,0,4,4,1,2,Moderate
-250,4,0,2,0,1,0,1,1,3,1,3,0,2,3,2,4,Risky
-251,2,1,1,1,1,1,1,1,4,1,1,1,3,1,1,2,Critical
-252,3,1,1,1,3,1,2,1,4,1,2,1,2,2,2,3,Critical
-253,1,0,2,0,3,0,2,1,4,1,3,0,1,5,2,4,Critical
-254,3,0,2,1,1,1,1,1,4,1,3,1,2,4,2,1,Critical
-255,1,1,3,1,3,1,1,1,4,1,3,0,1,1,1,3,Critical
-256,2,1,3,1,1,0,2,1,4,1,2,1,4,2,2,2,Critical
-257,2,0,1,1,1,1,3,1,5,1,1,0,1,6,1,2,Critical
-258,3,0,1,0,3,1,2,1,5,1,2,1,4,4,2,4,Critical
-259,1,0,2,1,2,0,1,1,5,1,1,0,3,3,2,4,Critical
-260,3,0,2,1,3,1,3,1,5,1,3,1,1,2,1,4,Critical
-261,1,1,3,1,3,0,3,1,5,1,3,0,4,6,1,4,Critical
-262,2,0,3,0,3,1,2,1,5,1,2,1,2,3,2,2,Critical
-263,1,0,1,1,1,0,1,1,1,1,4,1,3,4,1,3,Critical
-264,2,1,2,0,2,1,2,1,1,1,4,0,2,5,2,1,No Risk
-265,3,0,3,0,3,0,3,1,1,1,4,0,1,6,1,2,Critical
-266,1,1,1,0,1,1,1,1,2,1,4,1,2,1,2,4,Critical
-267,2,0,2,1,2,0,2,1,2,1,4,1,3,2,1,2,Critical
-268,3,1,3,1,3,1,3,1,2,1,4,1,4,3,2,3,Critical
-269,1,0,1,1,1,0,1,1,3,1,4,0,1,5,2,1,Risky
-270,2,1,2,0,2,0,2,1,3,1,4,0,4,4,1,4,Moderate
-271,3,0,3,1,3,1,3,1,3,1,4,1,3,1,1,1,Critical
-272,1,1,1,0,1,1,1,1,1,1,5,0,2,6,2,3,Moderate
-273,2,0,2,1,2,0,2,1,1,1,5,1,3,2,1,2,Critical
-274,3,1,3,1,3,1,3,1,1,1,5,1,1,3,2,4,Critical
-275,1,0,1,1,1,0,1,1,2,1,5,0,3,4,1,1,Low Risk
-276,2,1,2,0,2,1,2,1,2,1,5,0,2,5,2,4,No Risk
-277,3,0,3,0,3,0,3,1,2,1,5,0,4,6,1,2,Risky
-278,1,1,1,0,1,0,1,1,3,1,5,1,1,1,2,2,Critical
-279,2,0,2,1,2,1,2,1,3,1,5,1,4,3,1,3,Critical
-280,3,1,3,0,3,1,3,1,3,1,5,0,2,2,2,1,Critical
-281,2,1,2,1,2,1,1,1,2,1,4,1,1,6,2,3,Critical
-282,3,0,3,1,3,0,1,1,1,1,4,0,2,2,1,4,Moderate
-283,1,0,1,0,1,0,2,1,1,1,4,0,4,3,1,2,No Risk
-284,3,0,3,1,3,1,2,1,2,1,4,0,1,4,2,1,Moderate
-285,1,1,1,0,1,1,3,1,3,1,4,0,2,2,2,3,Risky
-286,2,0,2,1,2,0,3,1,1,1,4,0,4,1,2,3,Moderate
-287,2,0,2,0,2,1,1,1,1,1,5,1,1,4,2,1,Critical
-288,3,1,3,1,3,0,1,1,1,1,5,1,3,5,1,3,Critical
-289,1,0,1,0,1,0,2,1,3,1,5,1,4,5,1,4,Critical
-290,3,1,3,1,3,1,2,1,1,1,5,0,4,1,1,1,Risky
-291,1,0,1,0,1,0,3,1,2,1,5,1,3,3,2,3,Critical
-292,2,0,2,0,2,1,3,1,2,1,5,0,3,1,1,4,Low Risk
-293,1,0,4,1,2,0,1,1,3,1,2,0,2,6,2,3,Critical
-294,1,1,5,0,2,1,1,1,1,1,1,0,3,1,1,1,Low Risk
-295,2,1,5,0,3,1,2,1,2,1,1,0,4,4,1,2,Low Risk
-296,2,0,2,1,4,0,1,1,1,1,1,1,2,5,2,3,Low Risk
-297,2,1,3,1,4,0,1,1,1,1,1,0,4,3,1,2,Moderate
-298,2,1,1,0,5,1,1,1,1,1,1,0,1,6,2,4,Critical
-299,2,0,3,1,5,1,1,1,1,1,1,1,3,2,1,1,Critical
-300,3,0,5,1,1,0,3,1,3,1,2,1,3,4,1,4,Critical
-301,3,1,1,1,4,1,2,1,2,1,2,1,3,3,2,2,Critical
-302,2,0,2,0,4,0,2,1,2,1,2,1,4,1,2,3,No Risk
-303,3,1,2,0,5,0,2,1,2,1,2,1,3,6,2,3,Low Risk
-304,2,0,3,0,5,1,2,1,2,1,2,0,1,4,2,1,Critical
-305,3,1,5,0,1,1,2,1,3,1,3,0,2,1,1,2,Moderate
-306,3,0,1,0,4,1,3,1,3,1,3,1,2,5,2,4,Critical
-307,3,0,3,1,4,0,3,1,3,1,3,0,2,1,2,2,Critical
-308,3,1,1,1,5,0,3,1,3,1,3,1,3,4,1,4,Critical
-309,3,1,2,0,5,1,3,1,3,1,3,0,4,2,1,3,Critical
-310,2,1,2,0,1,1,1,1,3,1,4,1,1,3,2,2,Critical
-311,3,1,3,0,1,1,3,1,2,1,4,1,3,5,1,4,Critical
-312,1,1,1,1,2,1,2,1,3,1,4,0,2,6,2,1,Moderate
-313,3,0,3,1,2,1,3,1,2,1,4,0,2,3,2,1,Moderate
-314,1,1,1,0,3,0,1,1,1,1,4,0,4,5,2,3,Moderate
-315,2,0,2,1,3,0,2,1,3,1,4,0,1,1,2,2,Low Risk
-316,2,0,2,1,1,1,2,1,3,1,5,1,1,6,1,3,Critical
-317,3,0,3,1,1,0,2,1,3,1,5,1,2,4,1,2,Critical
-318,1,0,1,0,2,1,1,1,2,1,5,0,1,2,2,4,No Risk
-319,3,1,3,1,2,1,2,1,3,1,5,0,3,6,1,1,Risky
-320,1,1,1,1,3,0,3,1,1,1,5,0,4,4,2,3,Risky
-321,2,1,2,0,3,1,1,1,3,1,5,0,2,3,2,1,Risky
-322,4,1,2,1,3,0,1,1,1,1,2,0,3,2,1,3,Critical
-323,5,1,1,0,1,0,1,1,1,1,2,0,1,2,1,3,Critical
-324,2,1,1,0,3,1,3,1,3,1,4,1,2,4,1,2,Critical
-325,3,1,1,1,1,0,3,1,3,1,4,0,3,6,2,4,Critical
-326,1,1,2,1,3,1,1,1,2,1,4,0,1,2,1,4,Low Risk
-327,3,0,2,1,1,0,2,1,1,1,4,0,3,3,1,4,No Risk
-328,1,1,3,0,1,0,1,1,1,1,4,1,4,2,2,1,Critical
-329,2,0,3,1,2,0,2,1,3,1,4,0,4,6,2,3,Critical
-330,2,1,1,1,2,1,3,1,1,1,5,1,1,5,2,2,Critical
-331,3,1,1,1,1,0,1,1,3,1,5,0,4,2,2,3,Risky
-332,1,0,2,0,2,1,2,1,1,1,5,1,2,1,1,3,Critical
-333,3,1,2,1,2,1,2,1,2,1,5,0,2,5,2,1,Low Risk
-334,1,1,3,0,3,0,2,1,2,1,5,1,3,3,1,2,Critical
-335,2,0,3,0,1,0,3,1,3,1,5,1,2,4,1,4,Critical
-336,1,1,1,1,2,1,5,1,1,1,1,1,2,1,2,4,Critical
-337,3,1,3,0,1,0,5,1,2,1,1,1,3,2,2,1,Critical
-338,2,0,1,1,3,0,4,1,2,1,2,1,1,2,1,3,Critical
-339,1,0,2,1,1,1,5,1,1,1,2,1,2,3,1,4,Critical
-340,3,1,3,0,2,0,4,1,2,1,3,1,3,4,2,1,Critical
-341,1,1,2,1,3,1,4,1,2,1,3,1,2,6,2,2,Critical
-342,2,0,1,0,3,0,5,1,3,1,1,0,4,1,1,2,Critical
-343,2,0,3,1,2,0,5,1,2,1,1,1,4,3,1,2,Critical
-344,2,1,3,1,3,0,5,1,3,1,1,0,3,4,1,4,Critical
-345,1,1,1,1,2,1,4,1,1,1,2,1,2,5,2,1,Critical
-346,2,0,2,0,2,0,4,1,3,1,1,0,3,6,2,3,Critical
-347,1,1,2,0,5,0,2,1,1,1,1,1,1,1,1,3,Low Risk
-348,1,1,3,1,4,0,1,1,2,1,2,1,3,2,2,4,Low Risk
-349,1,1,3,1,5,1,1,1,3,1,3,0,3,3,2,2,Critical
-350,1,1,1,1,4,0,2,1,1,1,1,0,4,4,2,1,Low Risk
-351,1,0,1,0,5,0,1,1,2,1,2,0,2,5,1,1,Low Risk
-352,1,1,2,0,4,0,1,1,3,1,3,0,1,6,1,4,Risky
-353,3,1,2,0,1,0,2,1,4,1,2,1,1,3,1,2,Critical
-354,2,0,3,0,1,1,3,1,5,1,1,0,1,5,1,3,Critical
-355,3,1,3,0,2,0,2,1,4,1,2,1,2,6,1,3,Critical
-356,3,1,2,0,5,0,3,1,2,1,2,1,4,1,1,1,Moderate
-357,2,1,3,1,4,1,3,1,2,1,1,1,1,2,1,3,Critical
-358,3,1,1,1,5,0,2,1,2,1,2,1,1,3,1,4,Low Risk
-359,3,1,3,0,4,1,3,1,1,1,1,1,4,4,1,3,Critical
-360,1,0,3,1,5,1,3,1,2,1,2,1,3,5,2,2,Critical
-361,2,0,2,0,4,1,2,1,2,1,1,0,4,6,1,2,Critical
-362,3,0,4,0,2,0,2,1,3,1,3,0,4,1,1,1,Moderate
-363,3,1,4,0,1,1,1,1,2,1,2,0,2,3,2,4,Moderate
-364,1,1,5,1,3,0,2,1,3,1,2,0,1,3,2,3,Critical
-365,1,1,4,1,2,1,1,1,2,1,2,0,3,4,1,2,Critical
-366,2,1,5,1,2,0,2,1,3,1,3,0,2,4,2,1,Critical
-367,2,0,5,1,1,1,1,1,3,1,1,1,4,5,1,4,Critical
-368,1,1,4,0,1,0,2,1,3,1,2,1,1,5,1,1,Low Risk
-369,2,0,4,0,3,0,2,1,2,1,1,0,1,6,2,4,No Risk
-370,2,1,5,1,1,1,2,1,1,1,1,1,2,6,2,3,Critical
-371,1,0,4,0,2,1,1,1,3,1,3,1,3,6,1,2,Risky
-372,1,1,4,1,3,1,2,1,1,1,3,0,2,2,2,1,Critical
-373,2,0,3,0,1,1,3,1,5,1,2,1,2,4,1,3,Critical
-374,2,1,5,1,3,1,3,1,2,1,3,1,3,6,1,2,Critical
-375,2,0,4,0,2,1,2,1,1,1,2,0,4,3,1,3,No Risk
-376,1,0,4,0,1,1,3,1,3,1,1,0,4,4,2,4,Critical
-377,1,1,4,1,3,0,3,1,3,1,3,1,3,5,2,3,Critical
-378,3,1,5,0,2,0,3,1,2,1,2,0,1,5,2,2,Risky
-379,4,0,2,1,3,1,2,1,3,1,2,0,1,1,1,3,Moderate
-380,5,1,1,0,2,0,1,1,2,1,2,1,4,1,1,1,Critical
-381,4,1,3,1,2,1,1,1,3,1,1,0,1,2,1,1,Critical
-382,5,0,3,1,3,0,2,1,2,1,1,0,4,2,2,4,Low Risk
-383,4,0,2,0,1,1,2,1,3,1,3,1,3,2,2,2,Risky
-384,4,1,3,1,2,1,2,1,2,1,1,1,3,3,1,4,Critical
-385,4,1,1,0,3,0,3,1,2,1,2,0,1,3,1,1,Critical
-386,5,0,3,1,2,0,2,1,1,1,3,0,2,3,1,3,Moderate
-387,4,1,1,0,2,1,3,1,2,1,2,0,1,4,1,2,Critical
-388,4,1,2,0,2,0,3,1,3,1,3,1,3,4,2,1,Critical
-389,4,0,1,0,1,0,2,1,1,1,1,0,4,5,1,1,Low Risk
-390,4,1,3,0,3,0,3,1,3,1,2,1,2,5,1,4,Critical
-391,5,0,2,0,1,0,2,1,3,1,2,1,3,5,1,4,Moderate
-392,4,0,1,1,1,1,2,1,2,1,3,1,2,6,2,3,Moderate
-393,5,0,2,0,3,1,1,1,2,1,3,1,3,6,2,3,Risky
-394,5,1,1,1,3,1,2,1,3,1,3,1,1,4,2,1,Critical
-395,2,0,3,1,1,1,2,1,4,1,3,1,4,5,1,2,Critical
-396,5,1,1,1,1,0,3,1,3,1,2,1,2,1,2,2,Critical
-397,5,1,1,1,3,0,3,1,3,1,3,1,3,2,1,2,Critical
-398,3,1,3,1,3,0,4,1,1,1,2,0,2,3,1,2,Critical
-399,5,0,3,1,1,0,2,1,2,1,1,0,2,6,2,1,Moderate
-400,3,0,2,0,1,0,5,1,2,1,1,0,1,6,2,2,Critical
-401,5,0,3,0,2,1,2,1,2,1,1,1,1,5,1,2,No Risk
-402,2,1,1,1,2,0,3,1,4,1,3,1,1,4,2,4,Critical
-403,3,1,2,1,2,1,2,1,5,1,2,1,2,2,1,1,Critical
-404,2,1,3,1,1,0,3,1,5,1,1,1,3,1,1,1,Critical
-405,1,1,2,0,3,1,1,1,4,1,2,0,3,5,1,1,Critical
-406,2,0,2,1,2,0,2,1,5,1,2,1,3,5,1,4,Critical
-407,2,0,3,0,2,0,2,1,5,1,2,1,4,1,2,3,Critical
-408,3,1,3,1,3,1,4,1,3,1,3,0,1,1,2,4,Critical
-409,1,0,2,1,1,0,4,1,3,1,1,0,1,4,2,4,Critical
-410,3,0,1,0,2,0,4,1,2,1,1,0,2,1,2,3,Critical
-411,3,0,2,1,3,1,5,1,3,1,3,0,2,5,1,1,Critical
-412,1,1,2,0,1,0,5,1,1,1,1,1,2,6,2,3,Critical
-413,2,0,2,1,2,0,5,1,2,1,3,0,3,1,2,2,Critical
-414,3,1,2,1,3,0,4,1,2,1,1,1,3,2,2,2,Critical
-415,2,0,2,0,2,1,5,1,1,1,3,1,3,5,2,4,Critical
-416,1,1,3,1,2,0,5,1,1,1,1,0,4,2,2,3,Critical
-417,3,0,1,1,2,0,4,1,1,1,2,0,4,3,1,4,Critical
-418,2,1,1,0,2,1,4,1,1,1,2,0,4,4,2,1,Critical
-419,2,0,3,0,1,1,5,1,1,1,2,1,4,4,2,3,Critical
-420,1,1,3,0,2,0,4,1,3,1,1,0,4,6,2,3,Critical
-421,2,1,2,0,5,0,3,1,3,1,2,1,1,2,2,4,Moderate
-422,3,1,3,0,4,0,2,1,2,1,1,0,1,3,1,1,Low Risk
-423,3,0,2,1,4,0,1,1,3,1,2,1,1,5,2,1,Low Risk
-424,2,0,3,1,4,0,2,1,1,1,3,0,2,2,2,2,Moderate
-425,2,0,3,1,4,1,1,1,1,1,1,1,2,3,1,4,Critical
-426,3,1,1,1,4,1,1,1,1,1,1,1,2,4,2,1,Critical
-427,2,0,3,0,5,1,1,1,1,1,1,1,2,4,2,3,Critical
-428,3,1,2,1,5,1,2,1,3,1,3,0,2,6,1,2,Critical
-429,1,0,2,0,4,0,2,1,3,1,1,1,3,1,1,4,Moderate
-430,3,1,1,0,4,1,2,1,2,1,1,0,3,4,2,2,Critical
-431,2,0,3,1,4,0,3,1,3,1,3,0,3,5,2,2,Critical
-432,2,1,1,0,4,1,2,1,3,1,3,0,4,5,2,4,Critical
-433,3,1,2,0,5,1,3,1,3,1,3,0,4,6,1,1,Critical
-434,3,1,4,0,2,1,1,1,3,1,1,1,1,1,2,2,Moderate
-435,2,0,5,1,2,1,2,1,2,1,1,1,1,1,2,4,Critical
-436,2,0,4,0,2,1,1,1,1,1,1,0,1,4,2,1,Low Risk
-437,1,0,5,0,2,0,2,1,2,1,2,1,1,4,1,3,No Risk
-438,3,1,5,1,1,1,1,1,2,1,3,1,2,3,1,2,Critical
-439,1,1,4,0,1,1,1,1,2,1,3,1,2,5,2,2,Moderate
-440,3,1,5,0,2,1,2,1,3,1,2,1,2,5,1,4,Moderate
-441,3,1,5,1,3,0,2,1,2,1,1,1,3,2,1,2,Critical
-442,1,1,5,1,3,1,2,1,1,1,3,1,4,1,1,3,Critical
-443,5,0,3,0,1,0,3,1,1,1,3,1,1,3,2,4,Critical
-444,4,0,3,0,3,0,2,1,1,1,2,1,1,5,1,2,No Risk
-445,4,1,3,0,2,1,1,1,1,1,1,1,2,1,1,1,Critical
-446,5,0,1,1,1,1,3,1,1,1,1,0,3,1,2,3,Moderate
-447,4,0,1,0,1,0,2,1,2,1,3,0,3,5,1,4,No Risk
-448,5,0,2,1,3,1,3,1,1,1,3,0,4,3,2,4,Risky
-449,4,1,2,1,1,1,1,1,3,1,2,1,4,4,2,1,Critical
-450,4,0,3,0,3,1,3,1,3,1,2,0,4,6,2,4,Critical
-451,3,1,1,0,3,0,2,1,3,1,4,1,1,5,2,2,Critical
-452,2,0,3,1,1,0,1,1,1,1,5,0,2,6,2,4,Risky
-453,2,0,3,1,2,0,1,1,4,1,2,0,1,1,1,1,Critical
-454,2,0,3,0,1,0,3,1,5,1,1,1,4,6,1,1,Critical
-455,2,0,1,1,3,0,3,1,5,1,1,1,1,1,1,2,Critical
-456,2,0,3,1,1,1,1,1,5,1,3,1,1,2,2,2,Critical
-457,3,1,2,1,3,0,3,1,4,1,1,0,2,3,1,3,Critical
-458,2,0,2,1,2,1,3,1,4,1,1,1,1,3,2,4,Critical
-459,3,1,2,1,1,0,5,1,3,1,2,0,4,5,1,2,Critical
-460,2,1,2,0,3,1,5,1,3,1,1,0,3,1,2,3,Critical
-461,1,1,3,0,5,1,2,1,2,1,1,1,1,1,1,2,Critical
-462,2,1,1,0,5,0,1,1,1,1,1,0,3,4,1,2,Low Risk
-463,1,1,2,1,5,0,3,1,1,1,1,1,4,5,1,3,Moderate
-464,3,1,1,1,5,1,1,1,3,1,2,1,1,5,2,4,Critical
-465,3,1,4,0,1,1,3,1,1,1,2,1,1,2,2,3,Moderate
-466,2,0,5,0,3,0,2,1,2,1,3,1,1,3,2,1,Low Risk
-467,1,0,5,0,3,0,3,1,3,1,1,1,3,5,1,1,Critical
-468,1,1,4,0,2,0,1,1,3,1,2,0,4,6,1,1,Risky
-469,3,0,5,1,1,1,3,1,2,1,1,0,3,6,2,1,Critical
-470,1,0,4,0,1,0,3,1,1,1,1,1,2,2,1,2,Moderate
-471,2,1,4,0,2,0,2,1,2,1,1,0,2,3,1,2,No Risk
-472,1,0,4,1,3,0,2,1,1,1,2,0,2,1,2,4,Critical
-473,2,0,5,0,1,0,1,1,1,1,1,1,4,2,1,4,Low Risk
-474,5,0,3,1,3,0,3,1,2,1,1,0,3,2,1,1,Risky
-475,4,1,3,1,1,0,3,1,2,1,2,1,4,3,1,2,Critical
-476,5,0,1,0,1,1,3,1,2,1,1,1,2,6,2,2,Moderate
-477,5,1,2,0,2,1,1,1,1,1,2,1,3,5,2,3,Critical
-478,4,0,2,0,1,1,1,1,3,1,2,0,3,1,1,4,Moderate
-479,5,0,1,1,2,1,1,1,1,1,1,1,4,1,2,4,Low Risk
-480,5,0,2,1,2,0,3,1,2,1,2,0,2,4,1,4,Low Risk
+1,high,TRUE,high,TRUE,high,TRUE,high,TRUE,high,TRUE,high,TRUE,children,underweight,male,morning,Low Risk
+2,normal,FALSE,normal,FALSE,normal,FALSE,normal,TRUE,normal,TRUE,normal,FALSE,children,underweight,female,afternoon,No Risk
+3,low,TRUE,low,FALSE,low,TRUE,low,TRUE,low,TRUE,low,FALSE,children,underweight,male,evening,Critical
+4,high,FALSE,normal,TRUE,low,FALSE,high,TRUE,normal,TRUE,low,TRUE,children,underweight,female,night,Low Risk
+5,normal,FALSE,low,TRUE,high,FALSE,normal,TRUE,low,TRUE,high,FALSE,youth,underweight,male,morning,Risky
+6,low,TRUE,high,TRUE,normal,FALSE,low,TRUE,high,TRUE,normal,TRUE,youth,underweight,female,afternoon,Moderate
+7,high,TRUE,normal,FALSE,high,TRUE,low,TRUE,normal,TRUE,high,TRUE,youth,underweight,female,evening,Moderate
+8,normal,TRUE,high,FALSE,low,TRUE,normal,TRUE,high,TRUE,low,FALSE,youth,underweight,female,night,Low Risk
+9,low,FALSE,normal,FALSE,normal,TRUE,high,TRUE,low,TRUE,normal,TRUE,adult,underweight,male,morning,Low Risk
+10,high,TRUE,low,TRUE,high,FALSE,high,TRUE,normal,TRUE,normal,FALSE,adult,underweight,male,afternoon,Moderate
+11,normal,FALSE,high,TRUE,normal,TRUE,low,TRUE,low,TRUE,high,FALSE,adult,underweight,female,evening,Risky
+12,low,FALSE,low,FALSE,high,FALSE,normal,TRUE,high,TRUE,low,TRUE,adult,underweight,male,night,Moderate
+13,high,TRUE,normal,TRUE,low,TRUE,normal,TRUE,high,TRUE,normal,FALSE,old,underweight,female,morning,Low Risk
+14,normal,FALSE,high,FALSE,high,FALSE,high,TRUE,low,TRUE,low,TRUE,old,underweight,male,afternoon,Critical
+15,low,TRUE,low,TRUE,normal,FALSE,high,TRUE,normal,TRUE,high,TRUE,old,underweight,female,evening,Moderate
+16,high,FALSE,high,FALSE,normal,TRUE,low,TRUE,normal,TRUE,low,FALSE,old,underweight,male,night,Low Risk
+17,normal,FALSE,normal,FALSE,low,FALSE,low,TRUE,high,TRUE,high,TRUE,children,normal,male,morning,Moderate
+18,low,TRUE,low,TRUE,high,TRUE,normal,TRUE,low,TRUE,normal,TRUE,children,normal,female,afternoon,Moderate
+19,high,FALSE,high,TRUE,normal,FALSE,normal,TRUE,high,TRUE,low,FALSE,children,normal,male,evening,Low Risk
+20,normal,TRUE,low,FALSE,normal,TRUE,high,TRUE,low,TRUE,high,FALSE,children,normal,female,night,Low Risk
+21,low,FALSE,high,FALSE,low,TRUE,high,TRUE,normal,TRUE,normal,FALSE,youth,normal,male,morning,Moderate
+22,high,TRUE,normal,TRUE,low,FALSE,low,TRUE,low,TRUE,low,FALSE,youth,normal,male,afternoon,Risky
+23,normal,TRUE,low,TRUE,low,FALSE,normal,TRUE,normal,TRUE,normal,TRUE,youth,normal,male,evening,Low Risk
+24,low,FALSE,normal,TRUE,high,TRUE,low,TRUE,high,TRUE,normal,FALSE,youth,normal,female,night,Moderate
+25,high,TRUE,low,FALSE,normal,TRUE,low,TRUE,high,TRUE,low,TRUE,adult,normal,female,morning,Moderate
+26,normal,FALSE,high,TRUE,low,FALSE,high,TRUE,high,TRUE,high,TRUE,adult,normal,female,afternoon,Low Risk
+27,low,FALSE,normal,FALSE,high,TRUE,normal,TRUE,normal,TRUE,high,FALSE,adult,normal,male,evening,No Risk
+28,high,TRUE,high,FALSE,high,FALSE,normal,TRUE,low,TRUE,normal,TRUE,adult,normal,female,night,Low Risk
+29,normal,TRUE,low,TRUE,high,TRUE,low,TRUE,normal,TRUE,low,FALSE,old,normal,female,morning,Moderate
+30,low,FALSE,normal,FALSE,normal,TRUE,high,TRUE,high,TRUE,low,FALSE,old,normal,male,afternoon,Low Risk
+31,high,FALSE,high,FALSE,low,FALSE,high,TRUE,low,TRUE,high,TRUE,old,normal,female,evening,Risky
+32,normal,TRUE,normal,TRUE,high,FALSE,normal,TRUE,low,TRUE,high,TRUE,old,normal,male,night,Low Risk
+33,low,FALSE,low,TRUE,normal,FALSE,normal,TRUE,normal,TRUE,high,TRUE,children,overweight,female,morning,Low Risk
+34,high,TRUE,high,FALSE,low,TRUE,low,TRUE,normal,TRUE,normal,FALSE,children,overweight,male,afternoon,Risky
+35,normal,TRUE,normal,TRUE,high,TRUE,high,TRUE,high,TRUE,normal,TRUE,children,overweight,female,evening,No Risk
+36,low,FALSE,high,FALSE,high,FALSE,high,TRUE,low,TRUE,low,FALSE,children,overweight,male,night,Risky
+37,high,TRUE,normal,TRUE,normal,FALSE,high,TRUE,low,TRUE,low,TRUE,youth,overweight,female,morning,Moderate
+38,normal,FALSE,low,FALSE,normal,TRUE,low,TRUE,high,TRUE,high,FALSE,youth,overweight,male,afternoon,Moderate
+39,low,TRUE,high,TRUE,low,FALSE,normal,TRUE,high,TRUE,high,FALSE,youth,overweight,female,evening,Moderate
+40,high,FALSE,low,TRUE,low,TRUE,high,TRUE,high,TRUE,high,TRUE,youth,overweight,male,night,Risky
+41,normal,TRUE,high,FALSE,normal,FALSE,normal,TRUE,normal,TRUE,low,TRUE,adult,overweight,male,morning,Low Risk
+42,low,TRUE,normal,TRUE,low,TRUE,low,TRUE,low,TRUE,high,TRUE,adult,overweight,female,afternoon,Critical
+43,high,FALSE,low,FALSE,high,FALSE,low,TRUE,low,TRUE,normal,FALSE,adult,overweight,male,evening,Critical
+44,normal,TRUE,normal,FALSE,normal,FALSE,low,TRUE,normal,TRUE,normal,FALSE,adult,overweight,female,night,Low Risk
+45,low,FALSE,high,FALSE,high,FALSE,low,TRUE,high,TRUE,normal,TRUE,old,overweight,male,morning,Moderate
+46,high,FALSE,low,TRUE,low,TRUE,normal,TRUE,normal,TRUE,low,TRUE,old,overweight,female,afternoon,Risky
+47,normal,TRUE,normal,FALSE,normal,TRUE,normal,TRUE,low,TRUE,normal,FALSE,old,overweight,male,evening,Low Risk
+48,low,TRUE,low,FALSE,low,TRUE,low,TRUE,low,TRUE,normal,TRUE,old,overweight,male,night,Critical
+49,high,FALSE,low,TRUE,low,TRUE,high,TRUE,low,TRUE,low,FALSE,children,obesity1,female,morning,Critical
+50,normal,TRUE,high,TRUE,high,FALSE,low,TRUE,normal,TRUE,high,TRUE,children,obesity1,male,afternoon,Low Risk
+51,low,TRUE,normal,FALSE,normal,FALSE,normal,TRUE,high,TRUE,low,FALSE,children,obesity1,female,evening,Moderate
+52,high,FALSE,high,TRUE,normal,TRUE,normal,TRUE,normal,TRUE,normal,TRUE,children,obesity1,female,night,No Risk
+53,normal,FALSE,normal,FALSE,high,TRUE,high,TRUE,high,TRUE,normal,TRUE,youth,obesity1,male,morning,Low Risk
+54,low,FALSE,low,FALSE,low,FALSE,normal,TRUE,normal,TRUE,high,FALSE,youth,obesity1,male,afternoon,No Risk
+55,high,TRUE,high,FALSE,high,TRUE,high,TRUE,low,TRUE,low,TRUE,youth,obesity1,male,evening,Risky
+56,normal,TRUE,low,FALSE,normal,FALSE,low,TRUE,low,TRUE,normal,FALSE,youth,obesity1,female,night,Risky
+57,low,TRUE,high,TRUE,low,TRUE,low,TRUE,high,TRUE,normal,FALSE,adult,obesity1,male,morning,Critical
+58,high,FALSE,normal,FALSE,normal,FALSE,high,TRUE,high,TRUE,high,FALSE,adult,obesity1,female,afternoon,Low Risk
+59,normal,FALSE,low,TRUE,low,TRUE,normal,TRUE,low,TRUE,low,TRUE,adult,obesity1,female,evening,Critical
+60,low,TRUE,normal,TRUE,high,TRUE,high,TRUE,normal,TRUE,low,FALSE,adult,obesity1,female,night,Low Risk
+61,high,TRUE,high,TRUE,normal,TRUE,high,TRUE,normal,TRUE,high,FALSE,old,obesity1,female,morning,Low Risk
+62,normal,FALSE,normal,FALSE,low,FALSE,low,TRUE,low,TRUE,low,TRUE,old,obesity1,male,afternoon,Critical
+63,low,TRUE,low,TRUE,high,TRUE,normal,TRUE,high,TRUE,normal,TRUE,old,obesity1,female,evening,Moderate
+64,normal,FALSE,low,FALSE,low,FALSE,high,TRUE,high,TRUE,high,FALSE,old,obesity1,female,night,Moderate
+65,high,TRUE,high,TRUE,high,TRUE,normal,TRUE,low,TRUE,high,FALSE,children,obesity2,male,morning,Moderate
+66,normal,FALSE,normal,FALSE,normal,FALSE,low,TRUE,high,TRUE,low,TRUE,children,obesity2,female,afternoon,Critical
+67,low,TRUE,low,FALSE,low,FALSE,high,TRUE,normal,TRUE,high,FALSE,children,obesity2,female,evening,Moderate
+68,high,FALSE,normal,TRUE,low,TRUE,normal,TRUE,high,TRUE,normal,TRUE,children,obesity2,male,night,Low Risk
+69,normal,FALSE,low,TRUE,high,TRUE,low,TRUE,normal,TRUE,normal,FALSE,youth,obesity2,female,morning,Risky
+70,low,TRUE,high,TRUE,normal,FALSE,normal,TRUE,low,TRUE,low,TRUE,youth,obesity2,male,afternoon,Critical
+71,high,FALSE,normal,TRUE,normal,TRUE,high,TRUE,normal,TRUE,low,FALSE,youth,obesity2,male,evening,No Risk
+72,normal,TRUE,high,FALSE,low,FALSE,low,TRUE,low,TRUE,high,TRUE,youth,obesity2,female,night,Risky
+73,low,TRUE,normal,FALSE,high,TRUE,high,TRUE,high,TRUE,high,TRUE,adult,obesity2,male,morning,Moderate
+74,high,FALSE,low,FALSE,low,FALSE,normal,TRUE,normal,TRUE,low,FALSE,adult,obesity2,female,afternoon,No Risk
+75,normal,TRUE,high,TRUE,high,FALSE,high,TRUE,normal,TRUE,normal,TRUE,adult,obesity2,male,evening,No Risk
+76,low,FALSE,low,FALSE,normal,FALSE,low,TRUE,normal,TRUE,high,FALSE,adult,obesity2,male,night,Risky
+77,high,FALSE,high,TRUE,high,FALSE,normal,TRUE,high,TRUE,low,FALSE,old,obesity2,female,morning,Low Risk
+78,normal,TRUE,normal,FALSE,high,TRUE,high,TRUE,low,TRUE,normal,TRUE,old,obesity2,male,afternoon,Moderate
+79,low,TRUE,low,FALSE,normal,TRUE,low,TRUE,high,TRUE,high,TRUE,old,obesity2,female,evening,Risky
+80,low,FALSE,normal,TRUE,low,FALSE,high,TRUE,normal,TRUE,normal,TRUE,old,obesity2,female,night,No Risk
+81,high,TRUE,high,TRUE,normal,TRUE,normal,TRUE,low,TRUE,normal,FALSE,children,obesity3,female,morning,Moderate
+82,normal,FALSE,normal,FALSE,high,FALSE,high,TRUE,high,TRUE,low,TRUE,children,obesity3,male,afternoon,Risky
+83,low,TRUE,low,FALSE,low,TRUE,low,TRUE,normal,TRUE,high,TRUE,children,obesity3,female,evening,Critical
+84,high,FALSE,normal,TRUE,low,FALSE,low,TRUE,low,TRUE,low,FALSE,children,obesity3,male,night,Critical
+85,normal,FALSE,low,TRUE,normal,FALSE,low,TRUE,high,TRUE,high,FALSE,youth,obesity3,female,morning,Critical
+86,low,FALSE,high,TRUE,high,FALSE,normal,TRUE,normal,TRUE,normal,TRUE,youth,obesity3,male,afternoon,No Risk
+87,high,TRUE,normal,FALSE,normal,TRUE,normal,TRUE,high,TRUE,low,FALSE,youth,obesity3,male,evening,Low Risk
+88,normal,TRUE,high,FALSE,low,TRUE,high,TRUE,normal,TRUE,normal,FALSE,youth,obesity3,female,night,Moderate
+89,low,TRUE,normal,FALSE,high,TRUE,high,TRUE,low,TRUE,high,TRUE,adult,obesity3,female,morning,Risky
+90,high,FALSE,low,TRUE,normal,TRUE,high,TRUE,normal,TRUE,low,FALSE,adult,obesity3,female,afternoon,Moderate
+91,normal,FALSE,high,TRUE,high,FALSE,low,TRUE,high,TRUE,normal,FALSE,adult,obesity3,male,evening,Risky
+92,low,FALSE,low,FALSE,normal,FALSE,normal,TRUE,high,TRUE,high,TRUE,adult,obesity3,male,night,Low Risk
+93,high,TRUE,high,TRUE,low,FALSE,normal,TRUE,low,TRUE,low,TRUE,old,obesity3,male,morning,Risky
+94,normal,TRUE,normal,FALSE,high,TRUE,low,TRUE,normal,TRUE,high,FALSE,old,obesity3,female,afternoon,Moderate
+95,low,FALSE,low,TRUE,normal,TRUE,high,TRUE,low,TRUE,normal,FALSE,old,obesity3,male,evening,Risky
+96,high,TRUE,low,FALSE,high,TRUE,normal,TRUE,high,TRUE,high,TRUE,old,obesity3,male,night,Low Risk
+97,normal,FALSE,normal,TRUE,low,FALSE,high,TRUE,normal,TRUE,low,TRUE,adult,overweight,male,evening,Low Risk
+98,high,TRUE,high,TRUE,low,FALSE,low,TRUE,normal,TRUE,low,FALSE,adult,normal,male,night,Moderate
+99,normal,FALSE,high,FALSE,high,FALSE,high,TRUE,normal,TRUE,normal,TRUE,youth,overweight,female,afternoon,No Risk
+100,normal,FALSE,low,FALSE,high,FALSE,normal,TRUE,high,TRUE,low,TRUE,children,obesity2,female,night,Moderate
+101,high,FALSE,low,FALSE,normal,TRUE,low,TRUE,low,TRUE,normal,FALSE,adult,obesity2,male,morning,Critical
+102,high,TRUE,normal,TRUE,low,TRUE,high,TRUE,normal,TRUE,high,FALSE,old,overweight,female,morning,Low Risk
+103,high,TRUE,low,TRUE,low,TRUE,high,TRUE,high,TRUE,low,FALSE,youth,obesity2,female,morning,Risky
+104,low,FALSE,high,TRUE,low,TRUE,normal,TRUE,high,TRUE,high,TRUE,adult,underweight,female,afternoon,Moderate
+105,normal,TRUE,high,FALSE,low,TRUE,normal,TRUE,low,TRUE,high,TRUE,adult,obesity3,male,afternoon,Risky
+106,low,FALSE,low,TRUE,normal,FALSE,normal,TRUE,low,TRUE,normal,TRUE,youth,normal,female,morning,Moderate
+107,low,TRUE,high,FALSE,high,FALSE,high,TRUE,normal,TRUE,normal,FALSE,children,normal,male,afternoon,Moderate
+108,normal,FALSE,high,FALSE,high,FALSE,normal,TRUE,high,TRUE,low,TRUE,adult,overweight,female,night,Moderate
+109,high,FALSE,high,TRUE,normal,FALSE,low,TRUE,normal,TRUE,high,FALSE,youth,obesity1,male,evening,Moderate
+110,low,TRUE,high,FALSE,high,FALSE,normal,TRUE,low,TRUE,low,TRUE,youth,obesity1,male,morning,Critical
+111,high,FALSE,normal,TRUE,high,FALSE,normal,TRUE,high,TRUE,normal,FALSE,old,underweight,male,evening,No Risk
+112,high,TRUE,high,FALSE,low,FALSE,normal,TRUE,low,TRUE,low,FALSE,old,obesity2,male,evening,Moderate
+113,high,TRUE,low,TRUE,low,FALSE,low,TRUE,normal,TRUE,low,TRUE,children,underweight,male,morning,Risky
+114,normal,TRUE,low,TRUE,normal,TRUE,low,TRUE,normal,TRUE,high,FALSE,youth,normal,male,evening,Moderate
+115,high,FALSE,normal,FALSE,normal,FALSE,high,TRUE,low,TRUE,normal,FALSE,youth,underweight,male,night,Risky
+116,low,FALSE,normal,TRUE,low,FALSE,high,TRUE,high,TRUE,normal,FALSE,children,obesity3,female,morning,Low Risk
+117,low,FALSE,high,FALSE,high,TRUE,high,TRUE,normal,TRUE,low,TRUE,youth,obesity3,female,morning,Moderate
+118,normal,TRUE,low,TRUE,normal,TRUE,high,TRUE,low,TRUE,high,FALSE,youth,obesity3,female,afternoon,Moderate
+119,high,TRUE,high,TRUE,normal,TRUE,high,TRUE,low,TRUE,high,TRUE,adult,obesity1,male,night,Moderate
+120,high,FALSE,low,FALSE,high,FALSE,low,TRUE,normal,TRUE,low,TRUE,adult,overweight,male,night,Risky
+121,high,TRUE,normal,TRUE,high,FALSE,low,TRUE,normal,TRUE,high,FALSE,adult,overweight,male,afternoon,Low Risk
+122,normal,FALSE,normal,TRUE,normal,TRUE,high,TRUE,high,TRUE,high,TRUE,children,obesity2,male,afternoon,Low Risk
+123,low,TRUE,high,TRUE,low,FALSE,high,TRUE,high,TRUE,high,FALSE,old,underweight,female,night,Moderate
+124,high,FALSE,normal,FALSE,low,TRUE,low,TRUE,normal,TRUE,normal,FALSE,adult,obesity1,female,afternoon,Risky
+125,high,FALSE,normal,TRUE,normal,FALSE,normal,TRUE,normal,TRUE,normal,TRUE,old,normal,female,night,No Risk
+126,high,TRUE,high,TRUE,invalid,TRUE,high,TRUE,high,TRUE,high,TRUE,children,underweight,male,morning,Critical
+127,high,FALSE,high,FALSE,out_of_range,FALSE,normal,TRUE,normal,TRUE,normal,FALSE,youth,normal,female,afternoon,No Risk
+128,high,FALSE,normal,FALSE,invalid,FALSE,low,TRUE,low,TRUE,low,FALSE,adult,overweight,female,evening,Critical
+129,high,TRUE,normal,TRUE,out_of_range,TRUE,high,TRUE,high,TRUE,high,TRUE,old,obesity1,male,night,Critical
+130,high,TRUE,low,FALSE,invalid,TRUE,normal,TRUE,normal,TRUE,normal,FALSE,youth,obesity2,male,afternoon,Critical
+131,high,FALSE,low,TRUE,out_of_range,FALSE,low,TRUE,low,TRUE,low,TRUE,children,obesity3,female,morning,Critical
+132,high,TRUE,invalid,TRUE,high,TRUE,high,TRUE,high,TRUE,high,TRUE,adult,underweight,male,evening,Critical
+133,high,FALSE,invalid,FALSE,normal,FALSE,normal,TRUE,normal,TRUE,normal,FALSE,old,normal,female,night,No Risk
+134,high,TRUE,invalid,FALSE,low,TRUE,low,TRUE,low,TRUE,low,FALSE,children,overweight,male,morning,Critical
+135,high,FALSE,out_of_range,TRUE,high,FALSE,high,TRUE,high,TRUE,high,TRUE,youth,obesity1,female,afternoon,Critical
+136,high,TRUE,out_of_range,FALSE,normal,TRUE,normal,TRUE,normal,TRUE,normal,FALSE,adult,obesity2,male,evening,No Risk
+137,high,FALSE,out_of_range,FALSE,low,FALSE,low,TRUE,low,TRUE,low,FALSE,old,obesity3,female,night,Critical
+138,normal,FALSE,high,TRUE,invalid,FALSE,normal,TRUE,low,TRUE,high,TRUE,old,normal,female,night,Moderate
+139,normal,TRUE,high,FALSE,out_of_range,TRUE,high,TRUE,low,TRUE,normal,FALSE,adult,underweight,male,evening,Critical
+140,normal,FALSE,normal,TRUE,invalid,TRUE,high,TRUE,normal,TRUE,low,TRUE,children,obesity1,female,afternoon,Critical
+141,normal,TRUE,normal,FALSE,out_of_range,FALSE,low,TRUE,normal,TRUE,high,TRUE,youth,overweight,male,morning,Low Risk
+142,normal,FALSE,low,TRUE,invalid,FALSE,low,TRUE,high,TRUE,normal,TRUE,adult,obesity3,male,morning,Risky
+143,normal,TRUE,low,FALSE,out_of_range,TRUE,normal,TRUE,high,TRUE,low,FALSE,old,obesity2,female,afternoon,Critical
+144,normal,FALSE,invalid,TRUE,high,FALSE,normal,TRUE,low,TRUE,high,TRUE,youth,obesity1,female,afternoon,Critical
+145,normal,FALSE,invalid,TRUE,normal,TRUE,high,TRUE,high,TRUE,low,FALSE,children,obesity2,female,night,Critical
+146,normal,TRUE,invalid,TRUE,low,FALSE,low,TRUE,normal,TRUE,normal,TRUE,youth,underweight,male,evening,Critical
+147,normal,TRUE,out_of_range,TRUE,high,TRUE,normal,TRUE,low,TRUE,high,TRUE,children,normal,male,morning,Critical
+148,normal,TRUE,out_of_range,TRUE,normal,TRUE,high,TRUE,high,TRUE,low,FALSE,adult,overweight,female,night,Critical
+149,normal,FALSE,out_of_range,TRUE,low,FALSE,low,TRUE,normal,TRUE,normal,TRUE,youth,underweight,male,morning,Critical
+150,low,TRUE,high,FALSE,invalid,TRUE,low,TRUE,normal,TRUE,high,FALSE,youth,obesity3,female,evening,Critical
+151,low,FALSE,high,TRUE,out_of_range,FALSE,low,TRUE,high,TRUE,normal,FALSE,old,overweight,female,evening,Risky
+152,low,TRUE,normal,FALSE,invalid,TRUE,normal,TRUE,high,TRUE,low,FALSE,old,normal,male,morning,Critical
+153,low,FALSE,normal,TRUE,out_of_range,TRUE,normal,TRUE,low,TRUE,high,TRUE,children,obesity2,male,afternoon,Critical
+154,low,TRUE,low,FALSE,invalid,FALSE,high,TRUE,low,TRUE,normal,FALSE,children,obesity1,male,night,Critical
+155,low,FALSE,low,TRUE,out_of_range,FALSE,high,TRUE,normal,TRUE,low,TRUE,youth,underweight,female,night,Moderate
+156,low,TRUE,invalid,FALSE,high,TRUE,low,TRUE,high,TRUE,normal,TRUE,old,obesity3,male,afternoon,Risky
+157,low,FALSE,invalid,FALSE,normal,FALSE,high,TRUE,low,TRUE,high,FALSE,adult,normal,female,morning,Risky
+158,low,TRUE,invalid,FALSE,low,TRUE,normal,TRUE,high,TRUE,low,FALSE,adult,obesity1,female,evening,Risky
+159,low,FALSE,out_of_range,FALSE,high,TRUE,low,TRUE,normal,TRUE,high,TRUE,old,overweight,male,evening,Moderate
+160,low,TRUE,out_of_range,FALSE,normal,FALSE,high,TRUE,low,TRUE,normal,FALSE,children,obesity3,male,afternoon,Critical
+161,low,FALSE,out_of_range,TRUE,low,FALSE,normal,TRUE,high,TRUE,low,TRUE,children,obesity2,female,night,Critical
+162,invalid,TRUE,high,TRUE,high,TRUE,high,TRUE,normal,TRUE,high,TRUE,adult,underweight,male,morning,Critical
+163,invalid,FALSE,high,FALSE,normal,FALSE,normal,TRUE,low,TRUE,normal,FALSE,youth,normal,female,afternoon,Moderate
+164,invalid,TRUE,high,FALSE,low,TRUE,low,TRUE,high,TRUE,low,FALSE,old,overweight,male,evening,Critical
+165,invalid,FALSE,normal,TRUE,high,FALSE,normal,TRUE,high,TRUE,high,TRUE,children,obesity1,female,night,No Risk
+166,invalid,FALSE,normal,TRUE,normal,TRUE,high,TRUE,normal,TRUE,low,TRUE,youth,obesity2,female,evening,Low Risk
+167,invalid,FALSE,normal,TRUE,low,FALSE,low,TRUE,low,TRUE,normal,FALSE,adult,obesity3,male,morning,Critical
+168,invalid,TRUE,low,FALSE,high,TRUE,low,TRUE,normal,TRUE,normal,TRUE,old,normal,female,night,Critical
+169,invalid,TRUE,low,FALSE,normal,FALSE,high,TRUE,high,TRUE,high,FALSE,children,obesity3,male,afternoon,Critical
+170,invalid,FALSE,low,FALSE,low,FALSE,normal,TRUE,normal,TRUE,low,FALSE,children,underweight,female,morning,No Risk
+171,out_of_range,TRUE,high,TRUE,high,TRUE,high,TRUE,low,TRUE,high,TRUE,adult,overweight,male,afternoon,Critical
+172,out_of_range,FALSE,high,FALSE,normal,FALSE,normal,TRUE,normal,TRUE,normal,FALSE,youth,obesity1,female,evening,No Risk
+173,out_of_range,TRUE,high,FALSE,low,TRUE,low,TRUE,high,TRUE,low,FALSE,old,obesity2,male,night,Critical
+174,out_of_range,FALSE,normal,TRUE,high,FALSE,normal,TRUE,high,TRUE,high,TRUE,children,underweight,female,morning,No Risk
+175,out_of_range,FALSE,normal,TRUE,normal,TRUE,high,TRUE,low,TRUE,low,TRUE,youth,normal,female,night,Moderate
+176,out_of_range,TRUE,normal,TRUE,low,FALSE,low,TRUE,normal,TRUE,normal,FALSE,adult,overweight,male,morning,Critical
+177,out_of_range,FALSE,low,FALSE,high,TRUE,low,TRUE,low,TRUE,normal,TRUE,old,obesity3,male,evening,Risky
+178,out_of_range,TRUE,low,FALSE,normal,FALSE,high,TRUE,high,TRUE,high,FALSE,adult,obesity1,female,afternoon,Critical
+179,out_of_range,TRUE,low,FALSE,low,TRUE,normal,TRUE,low,TRUE,low,FALSE,children,underweight,male,afternoon,Critical
+180,low,TRUE,invalid,TRUE,low,TRUE,high,TRUE,normal,TRUE,high,TRUE,old,obesity2,male,afternoon,Critical
+181,high,TRUE,out_of_range,FALSE,low,FALSE,high,TRUE,normal,TRUE,low,FALSE,youth,normal,female,evening,Low Risk
+182,normal,FALSE,invalid,TRUE,normal,FALSE,low,TRUE,high,TRUE,high,TRUE,adult,overweight,male,night,Critical
+183,low,FALSE,out_of_range,FALSE,normal,FALSE,low,TRUE,high,TRUE,normal,TRUE,old,normal,female,morning,Moderate
+184,high,TRUE,high,TRUE,high,TRUE,invalid,TRUE,low,TRUE,normal,TRUE,youth,obesity1,male,evening,Critical
+185,normal,FALSE,normal,FALSE,high,FALSE,invalid,TRUE,normal,TRUE,low,FALSE,adult,obesity2,female,night,Critical
+186,low,TRUE,low,FALSE,high,TRUE,invalid,TRUE,high,TRUE,high,FALSE,children,obesity3,male,morning,Critical
+187,high,FALSE,high,TRUE,normal,FALSE,invalid,TRUE,normal,TRUE,high,TRUE,old,underweight,female,afternoon,Critical
+188,normal,FALSE,normal,TRUE,normal,TRUE,invalid,TRUE,low,TRUE,normal,TRUE,children,overweight,female,morning,Critical
+189,low,TRUE,low,TRUE,normal,FALSE,invalid,TRUE,low,TRUE,low,FALSE,youth,normal,male,night,Critical
+190,high,TRUE,high,FALSE,low,FALSE,invalid,TRUE,high,TRUE,low,TRUE,adult,overweight,female,evening,Critical
+191,normal,FALSE,normal,FALSE,low,TRUE,invalid,TRUE,high,TRUE,high,FALSE,youth,obesity1,male,afternoon,Critical
+192,low,TRUE,low,TRUE,low,TRUE,invalid,TRUE,normal,TRUE,normal,TRUE,old,obesity2,male,evening,Critical
+193,high,FALSE,high,TRUE,high,TRUE,out_of_range,TRUE,low,TRUE,normal,FALSE,adult,obesity3,female,night,Critical
+194,normal,TRUE,normal,FALSE,high,FALSE,out_of_range,TRUE,normal,TRUE,low,TRUE,children,underweight,male,morning,Critical
+195,low,FALSE,low,FALSE,high,TRUE,out_of_range,TRUE,high,TRUE,high,TRUE,youth,obesity1,female,afternoon,Critical
+196,high,TRUE,high,TRUE,normal,FALSE,out_of_range,TRUE,normal,TRUE,high,FALSE,old,obesity2,male,evening,Critical
+197,normal,TRUE,normal,TRUE,normal,TRUE,out_of_range,TRUE,low,TRUE,normal,FALSE,youth,normal,male,afternoon,Critical
+198,low,FALSE,low,TRUE,normal,FALSE,out_of_range,TRUE,low,TRUE,low,TRUE,adult,overweight,female,morning,Critical
+199,high,FALSE,high,FALSE,low,FALSE,out_of_range,TRUE,high,TRUE,low,FALSE,children,normal,male,night,Critical
+200,normal,TRUE,normal,FALSE,low,TRUE,out_of_range,TRUE,high,TRUE,high,TRUE,adult,obesity3,female,evening,Critical
+201,low,FALSE,low,TRUE,low,TRUE,out_of_range,TRUE,normal,TRUE,normal,FALSE,old,underweight,female,night,Critical
+202,invalid,TRUE,low,TRUE,low,TRUE,high,TRUE,low,TRUE,high,TRUE,youth,obesity1,male,evening,Critical
+203,out_of_range,FALSE,low,TRUE,low,TRUE,high,TRUE,normal,TRUE,high,TRUE,youth,obesity2,female,morning,Risky
+204,invalid,TRUE,normal,TRUE,normal,FALSE,low,TRUE,high,TRUE,high,TRUE,old,underweight,female,afternoon,Critical
+205,out_of_range,TRUE,high,TRUE,normal,FALSE,low,TRUE,high,TRUE,high,FALSE,children,obesity3,female,night,Critical
+206,normal,FALSE,high,TRUE,normal,FALSE,invalid,TRUE,high,TRUE,normal,FALSE,adult,obesity3,male,night,Critical
+207,low,FALSE,high,FALSE,low,FALSE,invalid,TRUE,low,TRUE,high,TRUE,children,obesity2,female,afternoon,Critical
+208,high,TRUE,normal,FALSE,high,TRUE,invalid,TRUE,high,TRUE,high,FALSE,old,normal,female,morning,Critical
+209,low,TRUE,normal,FALSE,high,TRUE,invalid,TRUE,high,TRUE,normal,FALSE,adult,underweight,male,afternoon,Critical
+210,high,FALSE,low,TRUE,high,TRUE,invalid,TRUE,normal,TRUE,high,TRUE,children,overweight,male,night,Critical
+211,normal,TRUE,low,FALSE,low,FALSE,invalid,TRUE,low,TRUE,low,TRUE,old,underweight,female,morning,Critical
+212,normal,FALSE,high,TRUE,normal,FALSE,out_of_range,TRUE,high,TRUE,normal,TRUE,children,obesity1,male,morning,Critical
+213,low,TRUE,high,FALSE,low,TRUE,out_of_range,TRUE,low,TRUE,high,FALSE,children,overweight,male,evening,Critical
+214,high,FALSE,normal,FALSE,low,FALSE,out_of_range,TRUE,normal,TRUE,low,TRUE,youth,obesity1,female,afternoon,Critical
+215,low,FALSE,normal,FALSE,high,TRUE,out_of_range,TRUE,high,TRUE,normal,TRUE,old,obesity2,female,evening,Critical
+216,high,TRUE,low,FALSE,normal,TRUE,out_of_range,TRUE,normal,TRUE,low,FALSE,old,obesity3,male,morning,Critical
+217,normal,FALSE,low,TRUE,low,FALSE,out_of_range,TRUE,low,TRUE,low,FALSE,children,obesity2,female,evening,Critical
+218,high,FALSE,high,TRUE,high,FALSE,high,TRUE,invalid,TRUE,low,FALSE,adult,normal,male,night,Critical
+219,normal,TRUE,normal,FALSE,normal,TRUE,high,TRUE,invalid,TRUE,normal,TRUE,youth,overweight,female,afternoon,Critical
+220,low,FALSE,low,FALSE,low,FALSE,high,TRUE,invalid,TRUE,high,TRUE,old,obesity1,male,evening,Critical
+221,high,TRUE,high,FALSE,high,TRUE,normal,TRUE,invalid,TRUE,normal,FALSE,children,obesity3,female,morning,Critical
+222,normal,FALSE,normal,TRUE,normal,TRUE,normal,TRUE,invalid,TRUE,low,FALSE,old,underweight,male,night,Critical
+223,low,TRUE,low,TRUE,low,FALSE,normal,TRUE,invalid,TRUE,low,FALSE,adult,overweight,female,afternoon,Critical
+224,high,TRUE,high,TRUE,high,TRUE,low,TRUE,invalid,TRUE,high,TRUE,youth,obesity2,male,evening,Critical
+225,normal,FALSE,normal,FALSE,normal,FALSE,low,TRUE,invalid,TRUE,high,TRUE,children,normal,female,morning,Critical
+226,low,FALSE,low,FALSE,low,FALSE,low,TRUE,invalid,TRUE,normal,FALSE,youth,underweight,female,night,Critical
+227,high,TRUE,high,TRUE,high,FALSE,high,TRUE,out_of_range,TRUE,low,TRUE,adult,obesity1,male,afternoon,Critical
+228,normal,FALSE,normal,FALSE,normal,TRUE,high,TRUE,out_of_range,TRUE,normal,FALSE,youth,obesity3,female,evening,Critical
+229,low,TRUE,low,FALSE,low,FALSE,high,TRUE,out_of_range,TRUE,high,FALSE,old,normal,male,night,Critical
+230,high,FALSE,high,FALSE,high,TRUE,normal,TRUE,out_of_range,TRUE,normal,TRUE,children,overweight,female,morning,Critical
+231,normal,TRUE,normal,TRUE,normal,TRUE,normal,TRUE,out_of_range,TRUE,low,TRUE,old,obesity2,male,afternoon,Critical
+232,low,FALSE,low,TRUE,low,FALSE,normal,TRUE,out_of_range,TRUE,low,TRUE,adult,obesity3,female,evening,Critical
+233,high,FALSE,high,TRUE,high,TRUE,low,TRUE,out_of_range,TRUE,high,FALSE,youth,underweight,male,night,Critical
+234,normal,TRUE,normal,TRUE,normal,FALSE,low,TRUE,out_of_range,TRUE,high,FALSE,children,obesity1,female,morning,Critical
+235,low,TRUE,low,FALSE,low,FALSE,low,TRUE,out_of_range,TRUE,normal,TRUE,youth,obesity2,female,afternoon,Critical
+236,normal,TRUE,invalid,TRUE,high,FALSE,low,TRUE,normal,TRUE,low,TRUE,children,normal,male,morning,Critical
+237,normal,TRUE,normal,FALSE,high,TRUE,normal,TRUE,invalid,TRUE,high,FALSE,adult,obesity1,female,evening,Critical
+238,low,FALSE,low,TRUE,high,TRUE,low,TRUE,invalid,TRUE,low,TRUE,old,obesity3,male,afternoon,Critical
+239,high,FALSE,high,TRUE,normal,TRUE,low,TRUE,invalid,TRUE,normal,TRUE,adult,obesity1,male,afternoon,Critical
+240,low,FALSE,low,TRUE,normal,FALSE,high,TRUE,invalid,TRUE,normal,FALSE,children,obesity2,male,morning,Critical
+241,high,FALSE,high,TRUE,low,TRUE,low,TRUE,invalid,TRUE,high,TRUE,old,overweight,female,morning,Critical
+242,normal,TRUE,normal,TRUE,low,FALSE,high,TRUE,invalid,TRUE,high,TRUE,adult,obesity3,female,night,Critical
+243,normal,FALSE,normal,FALSE,high,TRUE,normal,TRUE,out_of_range,TRUE,high,TRUE,adult,normal,female,night,Critical
+244,low,TRUE,low,FALSE,high,TRUE,low,TRUE,out_of_range,TRUE,low,FALSE,old,overweight,male,evening,Critical
+245,high,FALSE,high,TRUE,normal,FALSE,low,TRUE,out_of_range,TRUE,normal,FALSE,adult,normal,male,evening,Critical
+246,low,TRUE,low,FALSE,normal,FALSE,high,TRUE,out_of_range,TRUE,normal,TRUE,children,underweight,male,morning,Critical
+247,high,FALSE,high,FALSE,low,TRUE,high,TRUE,out_of_range,TRUE,high,FALSE,old,obesity2,female,morning,Critical
+248,normal,TRUE,normal,FALSE,low,FALSE,normal,TRUE,out_of_range,TRUE,low,FALSE,youth,underweight,female,morning,Critical
+249,out_of_range,FALSE,normal,TRUE,high,FALSE,low,TRUE,normal,TRUE,low,FALSE,old,obesity1,male,afternoon,Moderate
+250,invalid,FALSE,normal,FALSE,high,FALSE,high,TRUE,low,TRUE,low,FALSE,youth,overweight,female,night,Risky
+251,normal,TRUE,high,TRUE,high,TRUE,high,TRUE,invalid,TRUE,high,TRUE,adult,underweight,male,afternoon,Critical
+252,low,TRUE,high,TRUE,low,TRUE,normal,TRUE,invalid,TRUE,normal,TRUE,youth,normal,female,evening,Critical
+253,high,FALSE,normal,FALSE,low,FALSE,normal,TRUE,invalid,TRUE,low,FALSE,children,obesity2,female,night,Critical
+254,low,FALSE,normal,TRUE,high,TRUE,high,TRUE,invalid,TRUE,low,TRUE,youth,obesity1,female,morning,Critical
+255,high,TRUE,low,TRUE,low,TRUE,high,TRUE,invalid,TRUE,low,FALSE,children,underweight,male,evening,Critical
+256,normal,TRUE,low,TRUE,high,FALSE,normal,TRUE,invalid,TRUE,normal,TRUE,old,normal,female,afternoon,Critical
+257,normal,FALSE,high,TRUE,high,TRUE,low,TRUE,out_of_range,TRUE,high,FALSE,children,obesity3,male,afternoon,Critical
+258,low,FALSE,high,FALSE,low,TRUE,normal,TRUE,out_of_range,TRUE,normal,TRUE,old,obesity1,female,night,Critical
+259,high,FALSE,normal,TRUE,normal,FALSE,high,TRUE,out_of_range,TRUE,high,FALSE,adult,overweight,female,night,Critical
+260,low,FALSE,normal,TRUE,low,TRUE,low,TRUE,out_of_range,TRUE,low,TRUE,children,normal,male,night,Critical
+261,high,TRUE,low,TRUE,low,FALSE,low,TRUE,out_of_range,TRUE,low,FALSE,old,obesity3,male,night,Critical
+262,normal,FALSE,low,FALSE,low,TRUE,normal,TRUE,out_of_range,TRUE,normal,TRUE,youth,overweight,female,afternoon,Critical
+263,high,FALSE,high,TRUE,high,FALSE,high,TRUE,high,TRUE,invalid,TRUE,adult,obesity1,male,evening,Critical
+264,normal,TRUE,normal,FALSE,normal,TRUE,normal,TRUE,high,TRUE,invalid,FALSE,youth,obesity2,female,morning,No Risk
+265,low,FALSE,low,FALSE,low,FALSE,low,TRUE,high,TRUE,invalid,FALSE,children,obesity3,male,afternoon,Critical
+266,high,TRUE,high,FALSE,high,TRUE,high,TRUE,normal,TRUE,invalid,TRUE,youth,underweight,female,night,Critical
+267,normal,FALSE,normal,TRUE,normal,FALSE,normal,TRUE,normal,TRUE,invalid,TRUE,adult,normal,male,afternoon,Critical
+268,low,TRUE,low,TRUE,low,TRUE,low,TRUE,normal,TRUE,invalid,TRUE,old,overweight,female,evening,Critical
+269,high,FALSE,high,TRUE,high,FALSE,high,TRUE,low,TRUE,invalid,FALSE,children,obesity2,female,morning,Risky
+270,normal,TRUE,normal,FALSE,normal,FALSE,normal,TRUE,low,TRUE,invalid,FALSE,old,obesity1,male,night,Moderate
+271,low,FALSE,low,TRUE,low,TRUE,low,TRUE,low,TRUE,invalid,TRUE,adult,underweight,male,morning,Critical
+272,high,TRUE,high,FALSE,high,TRUE,high,TRUE,high,TRUE,out_of_range,FALSE,youth,obesity3,female,evening,Moderate
+273,normal,FALSE,normal,TRUE,normal,FALSE,normal,TRUE,high,TRUE,out_of_range,TRUE,adult,normal,male,afternoon,Critical
+274,low,TRUE,low,TRUE,low,TRUE,low,TRUE,high,TRUE,out_of_range,TRUE,children,overweight,female,night,Critical
+275,high,FALSE,high,TRUE,high,FALSE,high,TRUE,normal,TRUE,out_of_range,FALSE,adult,obesity1,male,morning,Low Risk
+276,normal,TRUE,normal,FALSE,normal,TRUE,normal,TRUE,normal,TRUE,out_of_range,FALSE,youth,obesity2,female,night,No Risk
+277,low,FALSE,low,FALSE,low,FALSE,low,TRUE,normal,TRUE,out_of_range,FALSE,old,obesity3,male,afternoon,Risky
+278,high,TRUE,high,FALSE,high,FALSE,high,TRUE,low,TRUE,out_of_range,TRUE,children,underweight,female,afternoon,Critical
+279,normal,FALSE,normal,TRUE,normal,TRUE,normal,TRUE,low,TRUE,out_of_range,TRUE,old,overweight,male,evening,Critical
+280,low,TRUE,low,FALSE,low,TRUE,low,TRUE,low,TRUE,out_of_range,FALSE,youth,normal,female,morning,Critical
+281,normal,TRUE,normal,TRUE,normal,TRUE,high,TRUE,normal,TRUE,invalid,TRUE,children,obesity3,female,evening,Critical
+282,low,FALSE,low,TRUE,low,FALSE,high,TRUE,high,TRUE,invalid,FALSE,youth,normal,male,night,Moderate
+283,high,FALSE,high,FALSE,high,FALSE,normal,TRUE,high,TRUE,invalid,FALSE,old,overweight,male,afternoon,No Risk
+284,low,FALSE,low,TRUE,low,TRUE,normal,TRUE,normal,TRUE,invalid,FALSE,children,obesity1,female,morning,Moderate
+285,high,TRUE,high,FALSE,high,TRUE,low,TRUE,low,TRUE,invalid,FALSE,youth,normal,female,evening,Risky
+286,normal,FALSE,normal,TRUE,normal,FALSE,low,TRUE,high,TRUE,invalid,FALSE,old,underweight,female,evening,Moderate
+287,normal,FALSE,normal,FALSE,normal,TRUE,high,TRUE,high,TRUE,out_of_range,TRUE,children,obesity1,female,morning,Critical
+288,low,TRUE,low,TRUE,low,FALSE,high,TRUE,high,TRUE,out_of_range,TRUE,adult,obesity2,male,evening,Critical
+289,high,FALSE,high,FALSE,high,FALSE,normal,TRUE,low,TRUE,out_of_range,TRUE,old,obesity2,male,night,Critical
+290,low,TRUE,low,TRUE,low,TRUE,normal,TRUE,high,TRUE,out_of_range,FALSE,old,underweight,male,morning,Risky
+291,high,FALSE,high,FALSE,high,FALSE,low,TRUE,normal,TRUE,out_of_range,TRUE,adult,overweight,female,evening,Critical
+292,normal,FALSE,normal,FALSE,normal,TRUE,low,TRUE,normal,TRUE,out_of_range,FALSE,adult,underweight,male,night,Low Risk
+293,high,FALSE,invalid,TRUE,normal,FALSE,high,TRUE,low,TRUE,normal,FALSE,youth,obesity3,female,evening,Critical
+294,high,TRUE,out_of_range,FALSE,normal,TRUE,high,TRUE,high,TRUE,high,FALSE,adult,underweight,male,morning,Low Risk
+295,normal,TRUE,out_of_range,FALSE,low,TRUE,normal,TRUE,normal,TRUE,high,FALSE,old,obesity1,male,afternoon,Low Risk
+296,normal,FALSE,normal,TRUE,invalid,FALSE,high,TRUE,high,TRUE,high,TRUE,youth,obesity2,female,evening,Low Risk
+297,normal,TRUE,low,TRUE,invalid,FALSE,high,TRUE,high,TRUE,high,FALSE,old,overweight,male,afternoon,Moderate
+298,normal,TRUE,high,FALSE,out_of_range,TRUE,high,TRUE,high,TRUE,high,FALSE,children,obesity3,female,night,Critical
+299,normal,FALSE,low,TRUE,out_of_range,TRUE,high,TRUE,high,TRUE,high,TRUE,adult,normal,male,morning,Critical
+300,low,FALSE,out_of_range,TRUE,high,FALSE,low,TRUE,low,TRUE,normal,TRUE,adult,obesity1,male,night,Critical
+301,low,TRUE,high,TRUE,invalid,TRUE,normal,TRUE,normal,TRUE,normal,TRUE,adult,overweight,female,afternoon,Critical
+302,normal,FALSE,normal,FALSE,invalid,FALSE,normal,TRUE,normal,TRUE,normal,TRUE,old,underweight,female,evening,No Risk
+303,low,TRUE,normal,FALSE,out_of_range,FALSE,normal,TRUE,normal,TRUE,normal,TRUE,adult,obesity3,female,evening,Low Risk
+304,normal,FALSE,low,FALSE,out_of_range,TRUE,normal,TRUE,normal,TRUE,normal,FALSE,children,obesity1,female,morning,Critical
+305,low,TRUE,out_of_range,FALSE,high,TRUE,normal,TRUE,low,TRUE,low,FALSE,youth,underweight,male,afternoon,Moderate
+306,low,FALSE,high,FALSE,invalid,TRUE,low,TRUE,low,TRUE,low,TRUE,youth,obesity2,female,night,Critical
+307,low,FALSE,low,TRUE,invalid,FALSE,low,TRUE,low,TRUE,low,FALSE,youth,underweight,female,afternoon,Critical
+308,low,TRUE,high,TRUE,out_of_range,FALSE,low,TRUE,low,TRUE,low,TRUE,adult,obesity1,male,night,Critical
+309,low,TRUE,normal,FALSE,out_of_range,TRUE,low,TRUE,low,TRUE,low,FALSE,old,normal,male,evening,Critical
+310,normal,TRUE,normal,FALSE,high,TRUE,high,TRUE,low,TRUE,invalid,TRUE,children,overweight,female,afternoon,Critical
+311,low,TRUE,low,FALSE,high,TRUE,low,TRUE,normal,TRUE,invalid,TRUE,adult,obesity2,male,night,Critical
+312,high,TRUE,high,TRUE,normal,TRUE,normal,TRUE,low,TRUE,invalid,FALSE,youth,obesity3,female,morning,Moderate
+313,low,FALSE,low,TRUE,normal,TRUE,low,TRUE,normal,TRUE,invalid,FALSE,youth,overweight,female,morning,Moderate
+314,high,TRUE,high,FALSE,low,FALSE,high,TRUE,high,TRUE,invalid,FALSE,old,obesity2,female,evening,Moderate
+315,normal,FALSE,normal,TRUE,low,FALSE,normal,TRUE,low,TRUE,invalid,FALSE,children,underweight,female,afternoon,Low Risk
+316,normal,FALSE,normal,TRUE,high,TRUE,normal,TRUE,low,TRUE,out_of_range,TRUE,children,obesity3,male,evening,Critical
+317,low,FALSE,low,TRUE,high,FALSE,normal,TRUE,low,TRUE,out_of_range,TRUE,youth,obesity1,male,afternoon,Critical
+318,high,FALSE,high,FALSE,normal,TRUE,high,TRUE,normal,TRUE,out_of_range,FALSE,children,normal,female,night,No Risk
+319,low,TRUE,low,TRUE,normal,TRUE,normal,TRUE,low,TRUE,out_of_range,FALSE,adult,obesity3,male,morning,Risky
+320,high,TRUE,high,TRUE,low,FALSE,low,TRUE,high,TRUE,out_of_range,FALSE,old,obesity1,female,evening,Risky
+321,normal,TRUE,normal,FALSE,low,TRUE,high,TRUE,low,TRUE,out_of_range,FALSE,youth,overweight,female,morning,Risky
+322,invalid,TRUE,normal,TRUE,low,FALSE,high,TRUE,high,TRUE,normal,FALSE,adult,normal,male,evening,Critical
+323,out_of_range,TRUE,high,FALSE,high,FALSE,high,TRUE,high,TRUE,normal,FALSE,children,normal,male,evening,Critical
+324,normal,TRUE,high,FALSE,low,TRUE,low,TRUE,low,TRUE,invalid,TRUE,youth,obesity1,male,afternoon,Critical
+325,low,TRUE,high,TRUE,high,FALSE,low,TRUE,low,TRUE,invalid,FALSE,adult,obesity3,female,night,Critical
+326,high,TRUE,normal,TRUE,low,TRUE,high,TRUE,normal,TRUE,invalid,FALSE,children,normal,male,night,Low Risk
+327,low,FALSE,normal,TRUE,high,FALSE,normal,TRUE,high,TRUE,invalid,FALSE,adult,overweight,male,night,No Risk
+328,high,TRUE,low,FALSE,high,FALSE,high,TRUE,high,TRUE,invalid,TRUE,old,normal,female,morning,Critical
+329,normal,FALSE,low,TRUE,normal,FALSE,normal,TRUE,low,TRUE,invalid,FALSE,old,obesity3,female,evening,Critical
+330,normal,TRUE,high,TRUE,normal,TRUE,low,TRUE,high,TRUE,out_of_range,TRUE,children,obesity2,female,afternoon,Critical
+331,low,TRUE,high,TRUE,high,FALSE,high,TRUE,low,TRUE,out_of_range,FALSE,old,normal,female,evening,Risky
+332,high,FALSE,normal,FALSE,normal,TRUE,normal,TRUE,high,TRUE,out_of_range,TRUE,youth,underweight,male,evening,Critical
+333,low,TRUE,normal,TRUE,normal,TRUE,normal,TRUE,normal,TRUE,out_of_range,FALSE,youth,obesity2,female,morning,Low Risk
+334,high,TRUE,low,FALSE,low,FALSE,normal,TRUE,normal,TRUE,out_of_range,TRUE,adult,overweight,male,afternoon,Critical
+335,normal,FALSE,low,FALSE,high,FALSE,low,TRUE,low,TRUE,out_of_range,TRUE,youth,obesity1,male,night,Critical
+336,high,TRUE,high,TRUE,normal,TRUE,out_of_range,TRUE,high,TRUE,high,TRUE,youth,underweight,female,night,Critical
+337,low,TRUE,low,FALSE,high,FALSE,out_of_range,TRUE,normal,TRUE,high,TRUE,adult,normal,female,morning,Critical
+338,normal,FALSE,high,TRUE,low,FALSE,invalid,TRUE,normal,TRUE,normal,TRUE,children,normal,male,evening,Critical
+339,high,FALSE,normal,TRUE,high,TRUE,out_of_range,TRUE,high,TRUE,normal,TRUE,youth,overweight,male,night,Critical
+340,low,TRUE,low,FALSE,normal,FALSE,invalid,TRUE,normal,TRUE,low,TRUE,adult,obesity1,female,morning,Critical
+341,high,TRUE,normal,TRUE,low,TRUE,invalid,TRUE,normal,TRUE,low,TRUE,youth,obesity3,female,afternoon,Critical
+342,normal,FALSE,high,FALSE,low,FALSE,out_of_range,TRUE,low,TRUE,high,FALSE,old,underweight,male,afternoon,Critical
+343,normal,FALSE,low,TRUE,normal,FALSE,out_of_range,TRUE,normal,TRUE,high,TRUE,old,overweight,male,afternoon,Critical
+344,normal,TRUE,low,TRUE,low,FALSE,out_of_range,TRUE,low,TRUE,high,FALSE,adult,obesity1,male,night,Critical
+345,high,TRUE,high,TRUE,normal,TRUE,invalid,TRUE,high,TRUE,normal,TRUE,youth,obesity2,female,morning,Critical
+346,normal,FALSE,normal,FALSE,normal,FALSE,invalid,TRUE,low,TRUE,high,FALSE,adult,obesity3,female,evening,Critical
+347,high,TRUE,normal,FALSE,out_of_range,FALSE,normal,TRUE,high,TRUE,high,TRUE,children,underweight,male,evening,Low Risk
+348,high,TRUE,low,TRUE,invalid,FALSE,high,TRUE,normal,TRUE,normal,TRUE,adult,normal,female,night,Low Risk
+349,high,TRUE,low,TRUE,out_of_range,TRUE,high,TRUE,low,TRUE,low,FALSE,adult,overweight,female,afternoon,Critical
+350,high,TRUE,high,TRUE,invalid,FALSE,normal,TRUE,high,TRUE,high,FALSE,old,obesity1,female,morning,Low Risk
+351,high,FALSE,high,FALSE,out_of_range,FALSE,high,TRUE,normal,TRUE,normal,FALSE,youth,obesity2,male,morning,Low Risk
+352,high,TRUE,normal,FALSE,invalid,FALSE,high,TRUE,low,TRUE,low,FALSE,children,obesity3,male,night,Risky
+353,low,TRUE,normal,FALSE,high,FALSE,normal,TRUE,invalid,TRUE,normal,TRUE,children,overweight,male,afternoon,Critical
+354,normal,FALSE,low,FALSE,high,TRUE,low,TRUE,out_of_range,TRUE,high,FALSE,children,obesity2,male,evening,Critical
+355,low,TRUE,low,FALSE,normal,FALSE,normal,TRUE,invalid,TRUE,normal,TRUE,youth,obesity3,male,evening,Critical
+356,low,TRUE,normal,FALSE,out_of_range,FALSE,low,TRUE,normal,TRUE,normal,TRUE,old,underweight,male,morning,Moderate
+357,normal,TRUE,low,TRUE,invalid,TRUE,low,TRUE,normal,TRUE,high,TRUE,children,normal,male,evening,Critical
+358,low,TRUE,high,TRUE,out_of_range,FALSE,normal,TRUE,normal,TRUE,normal,TRUE,children,overweight,male,night,Low Risk
+359,low,TRUE,low,FALSE,invalid,TRUE,low,TRUE,high,TRUE,high,TRUE,old,obesity1,male,evening,Critical
+360,high,FALSE,low,TRUE,out_of_range,TRUE,low,TRUE,normal,TRUE,normal,TRUE,adult,obesity2,female,afternoon,Critical
+361,normal,FALSE,normal,FALSE,invalid,TRUE,normal,TRUE,normal,TRUE,high,FALSE,old,obesity3,male,afternoon,Critical
+362,low,FALSE,invalid,FALSE,normal,FALSE,normal,TRUE,low,TRUE,low,FALSE,old,underweight,male,morning,Moderate
+363,low,TRUE,invalid,FALSE,high,TRUE,high,TRUE,normal,TRUE,normal,FALSE,youth,overweight,female,night,Moderate
+364,high,TRUE,out_of_range,TRUE,low,FALSE,normal,TRUE,low,TRUE,normal,FALSE,children,overweight,female,evening,Critical
+365,high,TRUE,invalid,TRUE,normal,TRUE,high,TRUE,normal,TRUE,normal,FALSE,adult,obesity1,male,afternoon,Critical
+366,normal,TRUE,out_of_range,TRUE,normal,FALSE,normal,TRUE,low,TRUE,low,FALSE,youth,obesity1,female,morning,Critical
+367,normal,FALSE,out_of_range,TRUE,high,TRUE,high,TRUE,low,TRUE,high,TRUE,old,obesity2,male,night,Critical
+368,high,TRUE,invalid,FALSE,high,FALSE,normal,TRUE,low,TRUE,normal,TRUE,children,obesity2,male,morning,Low Risk
+369,normal,FALSE,invalid,FALSE,low,FALSE,normal,TRUE,normal,TRUE,high,FALSE,children,obesity3,female,night,No Risk
+370,normal,TRUE,out_of_range,TRUE,high,TRUE,normal,TRUE,high,TRUE,high,TRUE,youth,obesity3,female,evening,Critical
+371,high,FALSE,invalid,FALSE,normal,TRUE,high,TRUE,low,TRUE,low,TRUE,adult,obesity3,male,afternoon,Risky
+372,high,TRUE,invalid,TRUE,low,TRUE,normal,TRUE,high,TRUE,low,FALSE,youth,normal,female,morning,Critical
+373,normal,FALSE,low,FALSE,high,TRUE,low,TRUE,out_of_range,TRUE,normal,TRUE,youth,obesity1,male,evening,Critical
+374,normal,TRUE,out_of_range,TRUE,low,TRUE,low,TRUE,normal,TRUE,low,TRUE,adult,obesity3,male,afternoon,Critical
+375,normal,FALSE,invalid,FALSE,normal,TRUE,normal,TRUE,high,TRUE,normal,FALSE,old,overweight,male,evening,No Risk
+376,high,FALSE,invalid,FALSE,high,TRUE,low,TRUE,low,TRUE,high,FALSE,old,obesity1,female,night,Critical
+377,high,TRUE,invalid,TRUE,low,FALSE,low,TRUE,low,TRUE,low,TRUE,adult,obesity2,female,evening,Critical
+378,low,TRUE,out_of_range,FALSE,normal,FALSE,low,TRUE,normal,TRUE,normal,FALSE,children,obesity2,female,afternoon,Risky
+379,invalid,FALSE,normal,TRUE,low,TRUE,normal,TRUE,low,TRUE,normal,FALSE,children,underweight,male,evening,Moderate
+380,out_of_range,TRUE,high,FALSE,normal,FALSE,high,TRUE,normal,TRUE,normal,TRUE,old,underweight,male,morning,Critical
+381,invalid,TRUE,low,TRUE,normal,TRUE,high,TRUE,low,TRUE,high,FALSE,children,normal,male,morning,Critical
+382,out_of_range,FALSE,low,TRUE,low,FALSE,normal,TRUE,normal,TRUE,high,FALSE,old,normal,female,night,Low Risk
+383,invalid,FALSE,normal,FALSE,high,TRUE,normal,TRUE,low,TRUE,low,TRUE,adult,normal,female,afternoon,Risky
+384,invalid,TRUE,low,TRUE,normal,TRUE,normal,TRUE,normal,TRUE,high,TRUE,adult,overweight,male,night,Critical
+385,invalid,TRUE,high,FALSE,low,FALSE,low,TRUE,normal,TRUE,normal,FALSE,children,overweight,male,morning,Critical
+386,out_of_range,FALSE,low,TRUE,normal,FALSE,normal,TRUE,high,TRUE,low,FALSE,youth,overweight,male,evening,Moderate
+387,invalid,TRUE,high,FALSE,normal,TRUE,low,TRUE,normal,TRUE,normal,FALSE,children,obesity1,male,afternoon,Critical
+388,invalid,TRUE,normal,FALSE,normal,FALSE,low,TRUE,low,TRUE,low,TRUE,adult,obesity1,female,morning,Critical
+389,invalid,FALSE,high,FALSE,high,FALSE,normal,TRUE,high,TRUE,high,FALSE,old,obesity2,male,morning,Low Risk
+390,invalid,TRUE,low,FALSE,low,FALSE,low,TRUE,low,TRUE,normal,TRUE,youth,obesity2,male,night,Critical
+391,out_of_range,FALSE,normal,FALSE,high,FALSE,normal,TRUE,low,TRUE,normal,TRUE,adult,obesity2,male,night,Moderate
+392,invalid,FALSE,high,TRUE,high,TRUE,normal,TRUE,normal,TRUE,low,TRUE,youth,obesity3,female,evening,Moderate
+393,out_of_range,FALSE,normal,FALSE,low,TRUE,high,TRUE,normal,TRUE,low,TRUE,adult,obesity3,female,evening,Risky
+394,out_of_range,TRUE,high,TRUE,low,TRUE,normal,TRUE,low,TRUE,low,TRUE,children,obesity1,female,morning,Critical
+395,normal,FALSE,low,TRUE,high,TRUE,normal,TRUE,invalid,TRUE,low,TRUE,old,obesity2,male,afternoon,Critical
+396,out_of_range,TRUE,high,TRUE,high,FALSE,low,TRUE,low,TRUE,normal,TRUE,youth,underweight,female,afternoon,Critical
+397,out_of_range,TRUE,high,TRUE,low,FALSE,low,TRUE,low,TRUE,low,TRUE,adult,normal,male,afternoon,Critical
+398,low,TRUE,low,TRUE,low,FALSE,invalid,TRUE,high,TRUE,normal,FALSE,youth,overweight,male,afternoon,Critical
+399,out_of_range,FALSE,low,TRUE,high,FALSE,normal,TRUE,normal,TRUE,high,FALSE,youth,obesity3,female,morning,Moderate
+400,low,FALSE,normal,FALSE,high,FALSE,out_of_range,TRUE,normal,TRUE,high,FALSE,children,obesity3,female,afternoon,Critical
+401,out_of_range,FALSE,low,FALSE,normal,TRUE,normal,TRUE,normal,TRUE,high,TRUE,children,obesity2,male,afternoon,No Risk
+402,normal,TRUE,high,TRUE,normal,FALSE,low,TRUE,invalid,TRUE,low,TRUE,children,obesity1,female,night,Critical
+403,low,TRUE,normal,TRUE,normal,TRUE,normal,TRUE,out_of_range,TRUE,normal,TRUE,youth,normal,male,morning,Critical
+404,normal,TRUE,low,TRUE,high,FALSE,low,TRUE,out_of_range,TRUE,high,TRUE,adult,underweight,male,morning,Critical
+405,high,TRUE,normal,FALSE,low,TRUE,high,TRUE,invalid,TRUE,normal,FALSE,adult,obesity2,male,morning,Critical
+406,normal,FALSE,normal,TRUE,normal,FALSE,normal,TRUE,out_of_range,TRUE,normal,TRUE,adult,obesity2,male,night,Critical
+407,normal,FALSE,low,FALSE,normal,FALSE,normal,TRUE,out_of_range,TRUE,normal,TRUE,old,underweight,female,evening,Critical
+408,low,TRUE,low,TRUE,low,TRUE,invalid,TRUE,low,TRUE,low,FALSE,children,underweight,female,night,Critical
+409,high,FALSE,normal,TRUE,high,FALSE,invalid,TRUE,low,TRUE,high,FALSE,children,obesity1,female,night,Critical
+410,low,FALSE,high,FALSE,normal,FALSE,invalid,TRUE,normal,TRUE,high,FALSE,youth,underweight,female,evening,Critical
+411,low,FALSE,normal,TRUE,low,TRUE,out_of_range,TRUE,low,TRUE,low,FALSE,youth,obesity2,male,morning,Critical
+412,high,TRUE,normal,FALSE,high,FALSE,out_of_range,TRUE,high,TRUE,high,TRUE,youth,obesity3,female,evening,Critical
+413,normal,FALSE,normal,TRUE,normal,FALSE,out_of_range,TRUE,normal,TRUE,low,FALSE,adult,underweight,female,afternoon,Critical
+414,low,TRUE,normal,TRUE,low,FALSE,invalid,TRUE,normal,TRUE,high,TRUE,adult,normal,female,afternoon,Critical
+415,normal,FALSE,normal,FALSE,normal,TRUE,out_of_range,TRUE,high,TRUE,low,TRUE,adult,obesity2,female,night,Critical
+416,high,TRUE,low,TRUE,normal,FALSE,out_of_range,TRUE,high,TRUE,high,FALSE,old,normal,female,evening,Critical
+417,low,FALSE,high,TRUE,normal,FALSE,invalid,TRUE,high,TRUE,normal,FALSE,old,overweight,male,night,Critical
+418,normal,TRUE,high,FALSE,normal,TRUE,invalid,TRUE,high,TRUE,normal,FALSE,old,obesity1,female,morning,Critical
+419,normal,FALSE,low,FALSE,high,TRUE,out_of_range,TRUE,high,TRUE,normal,TRUE,old,obesity1,female,evening,Critical
+420,high,TRUE,low,FALSE,normal,FALSE,invalid,TRUE,low,TRUE,high,FALSE,old,obesity3,female,evening,Critical
+421,normal,TRUE,normal,FALSE,out_of_range,FALSE,low,TRUE,low,TRUE,normal,TRUE,children,normal,female,night,Moderate
+422,low,TRUE,low,FALSE,invalid,FALSE,normal,TRUE,normal,TRUE,high,FALSE,children,overweight,male,morning,Low Risk
+423,low,FALSE,normal,TRUE,invalid,FALSE,high,TRUE,low,TRUE,normal,TRUE,children,obesity2,female,morning,Low Risk
+424,normal,FALSE,low,TRUE,invalid,FALSE,normal,TRUE,high,TRUE,low,FALSE,youth,normal,female,afternoon,Moderate
+425,normal,FALSE,low,TRUE,invalid,TRUE,high,TRUE,high,TRUE,high,TRUE,youth,overweight,male,night,Critical
+426,low,TRUE,high,TRUE,invalid,TRUE,high,TRUE,high,TRUE,high,TRUE,youth,obesity1,female,morning,Critical
+427,normal,FALSE,low,FALSE,out_of_range,TRUE,high,TRUE,high,TRUE,high,TRUE,youth,obesity1,female,evening,Critical
+428,low,TRUE,normal,TRUE,out_of_range,TRUE,normal,TRUE,low,TRUE,low,FALSE,youth,obesity3,male,afternoon,Critical
+429,high,FALSE,normal,FALSE,invalid,FALSE,normal,TRUE,low,TRUE,high,TRUE,adult,underweight,male,night,Moderate
+430,low,TRUE,high,FALSE,invalid,TRUE,normal,TRUE,normal,TRUE,high,FALSE,adult,obesity1,female,afternoon,Critical
+431,normal,FALSE,low,TRUE,invalid,FALSE,low,TRUE,low,TRUE,low,FALSE,adult,obesity2,female,afternoon,Critical
+432,normal,TRUE,high,FALSE,invalid,TRUE,normal,TRUE,low,TRUE,low,FALSE,old,obesity2,female,night,Critical
+433,low,TRUE,normal,FALSE,out_of_range,TRUE,low,TRUE,low,TRUE,low,FALSE,old,obesity3,male,morning,Critical
+434,low,TRUE,invalid,FALSE,normal,TRUE,high,TRUE,low,TRUE,high,TRUE,children,underweight,female,afternoon,Moderate
+435,normal,FALSE,out_of_range,TRUE,normal,TRUE,normal,TRUE,normal,TRUE,high,TRUE,children,underweight,female,night,Critical
+436,normal,FALSE,invalid,FALSE,normal,TRUE,high,TRUE,high,TRUE,high,FALSE,children,obesity1,female,morning,Low Risk
+437,high,FALSE,out_of_range,FALSE,normal,FALSE,normal,TRUE,normal,TRUE,normal,TRUE,children,obesity1,male,evening,No Risk
+438,low,TRUE,out_of_range,TRUE,high,TRUE,high,TRUE,normal,TRUE,low,TRUE,youth,overweight,male,afternoon,Critical
+439,high,TRUE,invalid,FALSE,high,TRUE,high,TRUE,normal,TRUE,low,TRUE,youth,obesity2,female,afternoon,Moderate
+440,low,TRUE,out_of_range,FALSE,normal,TRUE,normal,TRUE,low,TRUE,normal,TRUE,youth,obesity2,male,night,Moderate
+441,low,TRUE,out_of_range,TRUE,low,FALSE,normal,TRUE,normal,TRUE,high,TRUE,adult,normal,male,afternoon,Critical
+442,high,TRUE,out_of_range,TRUE,low,TRUE,normal,TRUE,high,TRUE,low,TRUE,old,underweight,male,evening,Critical
+443,out_of_range,FALSE,low,FALSE,high,FALSE,low,TRUE,high,TRUE,low,TRUE,children,overweight,female,night,Critical
+444,invalid,FALSE,low,FALSE,low,FALSE,normal,TRUE,high,TRUE,normal,TRUE,children,obesity2,male,afternoon,No Risk
+445,invalid,TRUE,low,FALSE,normal,TRUE,high,TRUE,high,TRUE,high,TRUE,youth,underweight,male,morning,Critical
+446,out_of_range,FALSE,high,TRUE,high,TRUE,low,TRUE,high,TRUE,high,FALSE,adult,underweight,female,evening,Moderate
+447,invalid,FALSE,high,FALSE,high,FALSE,normal,TRUE,normal,TRUE,low,FALSE,adult,obesity2,male,night,No Risk
+448,out_of_range,FALSE,normal,TRUE,low,TRUE,low,TRUE,high,TRUE,low,FALSE,old,overweight,female,night,Risky
+449,invalid,TRUE,normal,TRUE,high,TRUE,high,TRUE,low,TRUE,normal,TRUE,old,obesity1,female,morning,Critical
+450,invalid,FALSE,low,FALSE,low,TRUE,low,TRUE,low,TRUE,normal,FALSE,old,obesity3,female,night,Critical
+451,low,TRUE,high,FALSE,low,FALSE,normal,TRUE,low,TRUE,invalid,TRUE,children,obesity2,female,afternoon,Critical
+452,normal,FALSE,low,TRUE,high,FALSE,high,TRUE,high,TRUE,out_of_range,FALSE,youth,obesity3,female,night,Risky
+453,normal,FALSE,low,TRUE,normal,FALSE,high,TRUE,invalid,TRUE,normal,FALSE,children,underweight,male,morning,Critical
+454,normal,FALSE,low,FALSE,high,FALSE,low,TRUE,out_of_range,TRUE,high,TRUE,old,obesity3,male,morning,Critical
+455,normal,FALSE,high,TRUE,low,FALSE,low,TRUE,out_of_range,TRUE,high,TRUE,children,underweight,male,afternoon,Critical
+456,normal,FALSE,low,TRUE,high,TRUE,high,TRUE,out_of_range,TRUE,low,TRUE,children,normal,female,afternoon,Critical
+457,low,TRUE,normal,TRUE,low,FALSE,low,TRUE,invalid,TRUE,high,FALSE,youth,overweight,male,evening,Critical
+458,normal,FALSE,normal,TRUE,normal,TRUE,low,TRUE,invalid,TRUE,high,TRUE,children,overweight,female,night,Critical
+459,low,TRUE,normal,TRUE,high,FALSE,out_of_range,TRUE,low,TRUE,normal,FALSE,old,obesity2,male,afternoon,Critical
+460,normal,TRUE,normal,FALSE,low,TRUE,out_of_range,TRUE,low,TRUE,high,FALSE,adult,underweight,female,evening,Critical
+461,high,TRUE,low,FALSE,out_of_range,TRUE,normal,TRUE,normal,TRUE,high,TRUE,children,underweight,male,afternoon,Critical
+462,normal,TRUE,high,FALSE,out_of_range,FALSE,high,TRUE,high,TRUE,high,FALSE,adult,obesity1,male,afternoon,Low Risk
+463,high,TRUE,normal,TRUE,out_of_range,FALSE,low,TRUE,high,TRUE,high,TRUE,old,obesity2,male,evening,Moderate
+464,low,TRUE,high,TRUE,out_of_range,TRUE,high,TRUE,low,TRUE,normal,TRUE,children,obesity2,female,night,Critical
+465,low,TRUE,invalid,FALSE,high,TRUE,low,TRUE,high,TRUE,normal,TRUE,children,normal,female,evening,Moderate
+466,normal,FALSE,out_of_range,FALSE,low,FALSE,normal,TRUE,normal,TRUE,low,TRUE,children,overweight,female,morning,Low Risk
+467,high,FALSE,out_of_range,FALSE,low,FALSE,low,TRUE,low,TRUE,high,TRUE,adult,obesity2,male,morning,Critical
+468,high,TRUE,invalid,FALSE,normal,FALSE,high,TRUE,low,TRUE,normal,FALSE,old,obesity3,male,morning,Risky
+469,low,FALSE,out_of_range,TRUE,high,TRUE,low,TRUE,normal,TRUE,high,FALSE,adult,obesity3,female,morning,Critical
+470,high,FALSE,invalid,FALSE,high,FALSE,low,TRUE,high,TRUE,high,TRUE,youth,normal,male,afternoon,Moderate
+471,normal,TRUE,invalid,FALSE,normal,FALSE,normal,TRUE,normal,TRUE,high,FALSE,youth,overweight,male,afternoon,No Risk
+472,high,FALSE,invalid,TRUE,low,FALSE,normal,TRUE,high,TRUE,normal,FALSE,youth,underweight,female,night,Critical
+473,normal,FALSE,out_of_range,FALSE,high,FALSE,high,TRUE,high,TRUE,high,TRUE,old,normal,male,night,Low Risk
+474,out_of_range,FALSE,low,TRUE,low,FALSE,low,TRUE,normal,TRUE,high,FALSE,adult,normal,male,morning,Risky
+475,invalid,TRUE,low,TRUE,high,FALSE,low,TRUE,normal,TRUE,normal,TRUE,old,overweight,male,afternoon,Critical
+476,out_of_range,FALSE,high,FALSE,high,TRUE,low,TRUE,normal,TRUE,high,TRUE,youth,obesity3,female,afternoon,Moderate
+477,out_of_range,TRUE,normal,FALSE,normal,TRUE,high,TRUE,high,TRUE,normal,TRUE,adult,obesity2,female,evening,Critical
+478,invalid,FALSE,normal,FALSE,high,TRUE,high,TRUE,low,TRUE,normal,FALSE,adult,underweight,male,night,Moderate
+479,out_of_range,FALSE,high,TRUE,normal,TRUE,high,TRUE,high,TRUE,high,TRUE,old,underweight,female,night,Low Risk
+480,out_of_range,FALSE,normal,TRUE,normal,FALSE,low,TRUE,normal,TRUE,normal,FALSE,youth,obesity1,male,night,Low Risk
